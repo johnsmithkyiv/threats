@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T16:27:00.429Z",
+    "generatedAt": "2026-09-05T17:24:36.410Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 1213,
-    "totalObservations": 326,
-    "totalEpisodes": 117,
+    "totalSourcePosts": 1316,
+    "totalObservations": 335,
+    "totalEpisodes": 122,
     "latestSourceAt": "2026-09-05T14:21:52+00:00",
     "collectionComplete": false
   },
@@ -48,6 +48,34 @@
       "categories": {
         "attack-drone": 1,
         "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-06-01",
+      "label": "1 Jun 2026",
+      "start": "2026-06-01",
+      "end": "2026-06-01",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-06-02",
+      "label": "2 Jun 2026",
+      "start": "2026-06-02",
+      "end": "2026-06-02",
+      "total": 4,
+      "categories": {
+        "attack-drone": 3,
+        "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -714,6 +742,20 @@
       }
     },
     {
+      "id": "2026-W23",
+      "label": "Uke 23, 2026",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "total": 5,
+      "categories": {
+        "attack-drone": 4,
+        "jet-drone": 1,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2026-W24",
       "label": "Uke 24, 2026",
       "start": "2026-06-08",
@@ -944,10 +986,10 @@
       "label": "June 2026",
       "start": "2026-06-01",
       "end": "2026-06-30",
-      "total": 11,
+      "total": 16,
       "categories": {
-        "attack-drone": 5,
-        "jet-drone": 5,
+        "attack-drone": 9,
+        "jet-drone": 6,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
