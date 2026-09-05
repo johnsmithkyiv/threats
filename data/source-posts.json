@@ -350,5 +350,18 @@
       "url": "https://t.me/kpszsu/76528"
     }
   ],
-  "queryState": {}
+  "queryState": {
+    "Київ": {
+      "complete": true
+    },
+    "Києва": {
+      "complete": true
+    },
+    "Києві": {
+      "complete": true
+    },
+    "Києву": {
+      "complete": true
+    }
+  }
 }
