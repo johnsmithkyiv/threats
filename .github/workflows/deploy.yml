@@ -18,7 +18,7 @@ on:
 
 concurrency:
   group: github-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -32,6 +32,8 @@ jobs:
       should_deploy: ${{ steps.dashboard.outputs.should_deploy }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
