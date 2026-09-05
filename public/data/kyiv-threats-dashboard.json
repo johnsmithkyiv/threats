@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T13:25:30.934Z",
+    "generatedAt": "2026-09-05T14:26:56.499Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 946,
-    "totalObservations": 251,
-    "totalEpisodes": 92,
-    "latestSourceAt": "2026-09-05T12:48:42+00:00",
+    "totalSourcePosts": 1074,
+    "totalObservations": 310,
+    "totalEpisodes": 107,
+    "latestSourceAt": "2026-09-05T14:21:52+00:00",
     "collectionComplete": false
   },
   "daily": [
@@ -51,6 +51,76 @@
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-06-28",
+      "label": "28 Jun 2026",
+      "start": "2026-06-28",
+      "end": "2026-06-28",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-07-01",
+      "label": "1 Jul 2026",
+      "start": "2026-07-01",
+      "end": "2026-07-01",
+      "total": 3,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 1,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-07-02",
+      "label": "2 Jul 2026",
+      "start": "2026-07-02",
+      "end": "2026-07-02",
+      "total": 5,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 1,
+        "banderol": 1,
+        "cruise-missile": 1,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-07-06",
+      "label": "6 Jul 2026",
+      "start": "2026-07-06",
+      "end": "2026-07-06",
+      "total": 3,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-07-08",
+      "label": "8 Jul 2026",
+      "start": "2026-07-08",
+      "end": "2026-07-08",
+      "total": 3,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 2,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
       }
     },
     {
@@ -560,6 +630,48 @@
       }
     },
     {
+      "id": "2026-W26",
+      "label": "Uke 26, 2026",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-W27",
+      "label": "Uke 27, 2026",
+      "start": "2026-06-29",
+      "end": "2026-07-05",
+      "total": 8,
+      "categories": {
+        "attack-drone": 3,
+        "jet-drone": 2,
+        "banderol": 1,
+        "cruise-missile": 1,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-W28",
+      "label": "Uke 28, 2026",
+      "start": "2026-07-06",
+      "end": "2026-07-12",
+      "total": 6,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 2,
+        "banderol": 0,
+        "cruise-missile": 1,
+        "ballistic-missile": 2
+      }
+    },
+    {
       "id": "2026-W29",
       "label": "Uke 29, 2026",
       "start": "2026-07-13",
@@ -716,17 +828,31 @@
       }
     },
     {
+      "id": "2026-06",
+      "label": "June 2026",
+      "start": "2026-06-01",
+      "end": "2026-06-30",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
       "id": "2026-07",
       "label": "July 2026",
       "start": "2026-07-01",
       "end": "2026-07-31",
-      "total": 15,
+      "total": 29,
       "categories": {
-        "attack-drone": 4,
-        "jet-drone": 6,
-        "banderol": 0,
-        "cruise-missile": 0,
-        "ballistic-missile": 5
+        "attack-drone": 8,
+        "jet-drone": 10,
+        "banderol": 1,
+        "cruise-missile": 2,
+        "ballistic-missile": 8
       }
     },
     {
@@ -763,13 +889,25 @@
       "id": "jet-drone-76609",
       "category": "jet-drone",
       "startedAt": "2026-09-05T12:20:21+00:00",
-      "endedAt": "2026-09-05T12:20:21+00:00",
+      "endedAt": "2026-09-05T14:00:25+00:00",
       "sourcePosts": [
         {
           "id": 76609,
           "publishedAt": "2026-09-05T12:20:21+00:00",
           "text": "🏍 Київ: реактивний БпЛА в напрямку міста з півдня",
           "url": "https://t.me/kpszsu/76609"
+        },
+        {
+          "id": 76633,
+          "publishedAt": "2026-09-05T13:57:02+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півдня",
+          "url": "https://t.me/kpszsu/76633"
+        },
+        {
+          "id": 76634,
+          "publishedAt": "2026-09-05T14:00:25+00:00",
+          "text": "🏍 Нова група реактивний БпЛА на Київ з півночі",
+          "url": "https://t.me/kpszsu/76634"
         }
       ]
     },
