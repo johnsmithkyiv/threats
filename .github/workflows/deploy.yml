@@ -37,7 +37,7 @@ jobs:
       - run: npm ci
       - name: Collect source posts
         env:
-          COLLECTION_MODE: ${{ inputs.mode || 'recent' }}
+          COLLECTION_MODE: ${{ inputs.mode || 'backfill' }}
         run: npm run collect -- --$COLLECTION_MODE
       - name: Save collected source posts
         run: |

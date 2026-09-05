@@ -5,9 +5,8 @@ import { COVERAGE_START, TELEGRAM_SOURCE_URL } from "../src/lib/threats";
 import type { SourcePost, SourceStore } from "../src/types";
 
 const STORE_PATH = resolve("data/source-posts.json");
-const SEARCH_TERMS = ["Київ", "Києва", "Києві", "Києву"];
 const RECENT_PAGE_LIMIT = 3;
-const BACKFILL_PAGE_LIMIT = 80;
+const BACKFILL_PAGE_LIMIT = 20;
 const REQUEST_DELAY_MS = 400;
 
 type TelegramPage = {
@@ -18,44 +17,41 @@ type TelegramPage = {
 async function main() {
   const backfill = process.argv.includes("--backfill");
   const store = await readStore();
+  const archiveState = store.queryState.archive ?? {};
+  store.queryState = { archive: archiveState };
   const postsById = new Map(store.posts.map((post) => [post.id, post]));
   let fetchedPages = 0;
 
-  for (const query of SEARCH_TERMS) {
-    if (backfill && store.queryState[query]?.complete) {
-      continue;
+  // Always revisit the newest pages so updates are not missed while backfill moves backward.
+  for (let pageNumber = 0; pageNumber < RECENT_PAGE_LIMIT; pageNumber += 1) {
+    const page = await fetchTelegramPage();
+    fetchedPages += 1;
+    addKyivCandidatePosts(postsById, page.posts);
+
+    if (!page.nextBefore) {
+      break;
     }
 
-    let before = backfill ? store.queryState[query]?.nextBefore : undefined;
-    const pageLimit = backfill ? BACKFILL_PAGE_LIMIT : RECENT_PAGE_LIMIT;
+    await delay(REQUEST_DELAY_MS);
+  }
 
-    for (let pageNumber = 0; pageNumber < pageLimit; pageNumber += 1) {
-      const page = await fetchTelegramPage(query, before);
+  if (backfill && !archiveState.complete) {
+    let before = archiveState.nextBefore;
+
+    for (let pageNumber = 0; pageNumber < BACKFILL_PAGE_LIMIT; pageNumber += 1) {
+      const page = await fetchTelegramPage(before);
       fetchedPages += 1;
-
-      for (const post of page.posts) {
-        postsById.set(post.id, post);
-      }
-
-      if (!backfill) {
-        if (!page.nextBefore) {
-          break;
-        }
-
-        before = page.nextBefore;
-        await delay(REQUEST_DELAY_MS);
-        continue;
-      }
+      addKyivCandidatePosts(postsById, page.posts);
 
       const oldestPost = page.posts.at(-1);
       const reachedCoverageStart = oldestPost ? oldestPost.publishedAt <= COVERAGE_START : true;
 
       if (!page.nextBefore || reachedCoverageStart) {
-        store.queryState[query] = { complete: true };
+        store.queryState.archive = { complete: true };
         break;
       }
 
-      store.queryState[query] = { nextBefore: page.nextBefore, complete: false };
+      store.queryState.archive = { nextBefore: page.nextBefore, complete: false };
       before = page.nextBefore;
       await delay(REQUEST_DELAY_MS);
     }
@@ -67,10 +63,17 @@ async function main() {
   console.log(`Collected ${store.posts.length.toLocaleString("en-US")} source posts across ${fetchedPages} Telegram pages.`);
 }
 
-async function fetchTelegramPage(query: string, before?: number): Promise<TelegramPage> {
+function addKyivCandidatePosts(postsById: Map<number, SourcePost>, posts: SourcePost[]): void {
+  for (const post of posts) {
+    if (/київ|києв/iu.test(post.text)) {
+      postsById.set(post.id, post);
+    }
+  }
+}
+
+async function fetchTelegramPage(before?: number): Promise<TelegramPage> {
   const url = new URL(`${TELEGRAM_SOURCE_URL}/s`);
   url.pathname = "/s/kpszsu";
-  url.searchParams.set("q", query);
 
   if (before) {
     url.searchParams.set("before", String(before));
@@ -103,14 +106,14 @@ async function fetchTelegramPage(query: string, before?: number): Promise<Telegr
     }
 
     if (attempt === 3) {
-      throw new Error(`Telegram search failed for ${query}: ${response.status} ${response.statusText}`);
+      throw new Error(`Telegram archive request failed: ${response.status} ${response.statusText}`);
     }
 
     await delay(attempt * 1_000);
   }
 
   if (!response?.ok) {
-    throw new Error(`Telegram search failed for ${query}.${lastError instanceof Error ? ` ${lastError.message}` : ""}`);
+    throw new Error(`Telegram archive request failed.${lastError instanceof Error ? ` ${lastError.message}` : ""}`);
   }
 
   return parseTelegramPage(await response.text());

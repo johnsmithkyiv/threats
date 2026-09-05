@@ -9,7 +9,7 @@ const OUTPUT_PATH = resolve("public/data/kyiv-threats-dashboard.json");
 
 async function main() {
   const store = JSON.parse(await readFile(STORE_PATH, "utf8")) as SourceStore;
-  const collectionComplete = Object.values(store.queryState).length > 0 && Object.values(store.queryState).every((state) => state.complete);
+  const collectionComplete = store.queryState.archive?.complete === true;
   const dashboardData = buildDashboardData(store.posts, DateTime.utc().toISO() ?? new Date().toISOString(), collectionComplete);
 
   await mkdir(dirname(OUTPUT_PATH), { recursive: true });

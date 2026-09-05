@@ -18,10 +18,10 @@ npm run collect
 npm run build
 ```
 
-`npm run collect -- --backfill` advances the saved Telegram search cursors toward 24 February 2022. It is bounded per run to avoid aggressive scraping.
+`npm run collect -- --backfill` advances the saved chronological Telegram archive cursor toward 24 February 2022. It is bounded per run to avoid aggressive scraping.
 
 ## Deployment
 
-- `.github/workflows/deploy.yml` runs recent collection every 20 minutes and deploys GitHub Pages.
-- The workflow can run a backfill manually with the `backfill` input.
+- `.github/workflows/deploy.yml` runs recent collection and advances the backfill every 20 minutes before deploying GitHub Pages.
+- The workflow can also run a backfill manually with the `backfill` input.
 - `vite.config.ts` must keep `base: "/threats/"` for GitHub Pages.

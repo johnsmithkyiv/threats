@@ -17,7 +17,7 @@ Categories are attack drones, jet drones, Banderol loitering munitions, cruise m
 ## Sources
 
 - Ukrainian Air Force official Telegram channel: https://t.me/kpszsu
-- Public Telegram search is used to find Kyiv-related posts. Raw source text, timestamp, and post URL are stored in `data/source-posts.json` for review.
+- The public Telegram archive is scanned chronologically. Raw source text, timestamp, and post URL are stored in `data/source-posts.json` for review.
 
 The dashboard is historical and informational only. It is not an alerting service; follow official alerts and authority guidance during an air raid.
 
@@ -31,10 +31,10 @@ npm run collect -- --backfill
 npm run build
 ```
 
-`npm run collect` fetches recent matches. `npm run collect -- --backfill` continues a bounded historical import from the saved cursor; rerun it until the collection status is complete.
+`npm run collect` fetches recent archive pages. `npm run collect -- --backfill` also continues a bounded historical import from the saved cursor; rerun it until the collection status is complete.
 
 ## Deployment
 
-`.github/workflows/deploy.yml` collects data, tests, builds, commits any collected source posts, and deploys to GitHub Pages. The scheduled job runs every 20 minutes; backfill can be started manually from the Actions tab.
+`.github/workflows/deploy.yml` collects data, tests, builds, commits any collected source posts, and deploys to GitHub Pages. The scheduled job runs every 20 minutes and steadily advances the backfill; backfill can also be started manually from the Actions tab.
 
 Enable **Settings -> Pages -> Source: GitHub Actions** in the repository.
