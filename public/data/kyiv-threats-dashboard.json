@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T21:24:59.348Z",
+    "generatedAt": "2026-09-05T22:25:11.847Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 1688,
-    "totalObservations": 404,
-    "totalEpisodes": 166,
-    "latestSourceAt": "2026-09-05T21:15:03+00:00",
+    "totalSourcePosts": 1746,
+    "totalObservations": 414,
+    "totalEpisodes": 174,
+    "latestSourceAt": "2026-09-05T22:13:12+00:00",
     "collectionComplete": false
   },
   "daily": [
@@ -44,6 +44,90 @@
       "label": "5 Feb 2026",
       "start": "2026-02-05",
       "end": "2026-02-05",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-03-02",
+      "label": "2 Mar 2026",
+      "start": "2026-03-02",
+      "end": "2026-03-02",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-03-06",
+      "label": "6 Mar 2026",
+      "start": "2026-03-06",
+      "end": "2026-03-06",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-03-07",
+      "label": "7 Mar 2026",
+      "start": "2026-03-07",
+      "end": "2026-03-07",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-03-14",
+      "label": "14 Mar 2026",
+      "start": "2026-03-14",
+      "end": "2026-03-14",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-03-15",
+      "label": "15 Mar 2026",
+      "start": "2026-03-15",
+      "end": "2026-03-15",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-03-16",
+      "label": "16 Mar 2026",
+      "start": "2026-03-16",
+      "end": "2026-03-16",
       "total": 1,
       "categories": {
         "attack-drone": 1,
@@ -1162,13 +1246,41 @@
       }
     },
     {
+      "id": "2026-W10",
+      "label": "Uke 10, 2026",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "total": 4,
+      "categories": {
+        "attack-drone": 3,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-W11",
+      "label": "Uke 11, 2026",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "total": 3,
+      "categories": {
+        "attack-drone": 3,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2026-W12",
       "label": "Uke 12, 2026",
       "start": "2026-03-16",
       "end": "2026-03-22",
-      "total": 4,
+      "total": 5,
       "categories": {
-        "attack-drone": 4,
+        "attack-drone": 5,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
@@ -1546,13 +1658,13 @@
       "label": "March 2026",
       "start": "2026-03-01",
       "end": "2026-03-31",
-      "total": 6,
+      "total": 14,
       "categories": {
-        "attack-drone": 6,
+        "attack-drone": 13,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 0
+        "ballistic-missile": 1
       }
     },
     {
