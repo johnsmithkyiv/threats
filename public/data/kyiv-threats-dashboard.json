@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T11:25:31.213Z",
+    "generatedAt": "2026-09-05T12:30:45.238Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 831,
-    "totalObservations": 218,
-    "totalEpisodes": 84,
-    "latestSourceAt": "2026-09-05T07:42:04+00:00",
+    "totalSourcePosts": 909,
+    "totalObservations": 244,
+    "totalEpisodes": 90,
+    "latestSourceAt": "2026-09-05T12:20:21+00:00",
     "collectionComplete": false
   },
   "daily": [
@@ -54,17 +54,45 @@
       }
     },
     {
+      "id": "2026-07-19",
+      "label": "19 Jul 2026",
+      "start": "2026-07-19",
+      "end": "2026-07-19",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 1,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-07-22",
+      "label": "22 Jul 2026",
+      "start": "2026-07-22",
+      "end": "2026-07-22",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 2,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2026-07-26",
       "label": "26 Jul 2026",
       "start": "2026-07-26",
       "end": "2026-07-26",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 1,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 0
+        "ballistic-missile": 1
       }
     },
     {
@@ -450,10 +478,10 @@
       "label": "5 Sep 2026",
       "start": "2026-09-05",
       "end": "2026-09-05",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 1,
+        "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -504,17 +532,31 @@
       }
     },
     {
+      "id": "2026-W29",
+      "label": "Uke 29, 2026",
+      "start": "2026-07-13",
+      "end": "2026-07-19",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 1,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
       "id": "2026-W30",
       "label": "Uke 30, 2026",
       "start": "2026-07-20",
       "end": "2026-07-26",
-      "total": 1,
+      "total": 4,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 0,
+        "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 0
+        "ballistic-missile": 1
       }
     },
     {
@@ -592,10 +634,10 @@
       "label": "Uke 36, 2026",
       "start": "2026-08-31",
       "end": "2026-09-06",
-      "total": 22,
+      "total": 23,
       "categories": {
         "attack-drone": 5,
-        "jet-drone": 17,
+        "jet-drone": 18,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -650,13 +692,13 @@
       "label": "July 2026",
       "start": "2026-07-01",
       "end": "2026-07-31",
-      "total": 8,
+      "total": 13,
       "categories": {
         "attack-drone": 3,
-        "jet-drone": 3,
+        "jet-drone": 6,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 2
+        "ballistic-missile": 4
       }
     },
     {
@@ -678,10 +720,10 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 18,
+      "total": 19,
       "categories": {
         "attack-drone": 3,
-        "jet-drone": 15,
+        "jet-drone": 16,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -689,6 +731,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-76609",
+      "category": "jet-drone",
+      "startedAt": "2026-09-05T12:20:21+00:00",
+      "endedAt": "2026-09-05T12:20:21+00:00",
+      "sourcePosts": [
+        {
+          "id": 76609,
+          "publishedAt": "2026-09-05T12:20:21+00:00",
+          "text": "🏍 Київ: реактивний БпЛА в напрямку міста з півдня",
+          "url": "https://t.me/kpszsu/76609"
+        }
+      ]
+    },
     {
       "id": "jet-drone-76457",
       "category": "jet-drone",
@@ -1356,80 +1412,6 @@
           "publishedAt": "2026-08-29T16:39:04+00:00",
           "text": "🏍 Реактивний БпЛА у напрямку Києва з півночі.",
           "url": "https://t.me/kpszsu/75271"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-75134",
-      "category": "jet-drone",
-      "startedAt": "2026-08-29T00:46:46+00:00",
-      "endedAt": "2026-08-29T09:51:19+00:00",
-      "sourcePosts": [
-        {
-          "id": 75134,
-          "publishedAt": "2026-08-29T00:46:46+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75134"
-        },
-        {
-          "id": 75140,
-          "publishedAt": "2026-08-29T01:51:42+00:00",
-          "text": "🏍 Реактивні БпЛА повз Велику Димерку курсом на Київ.",
-          "url": "https://t.me/kpszsu/75140"
-        },
-        {
-          "id": 75148,
-          "publishedAt": "2026-08-29T02:51:20+00:00",
-          "text": "🏍 Реактивні БпЛА на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75148"
-        },
-        {
-          "id": 75151,
-          "publishedAt": "2026-08-29T03:34:22+00:00",
-          "text": "🏍 Реактивні БпЛА з Херсонщини, курсом на Миколаївщину.\n🏍 Реактивні БпЛА курсом на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75151"
-        },
-        {
-          "id": 75155,
-          "publishedAt": "2026-08-29T04:29:58+00:00",
-          "text": "🏍 Реактивні БпЛА курсом на Київ зі сходу.",
-          "url": "https://t.me/kpszsu/75155"
-        },
-        {
-          "id": 75164,
-          "publishedAt": "2026-08-29T05:51:58+00:00",
-          "text": "🏍 Реактивні БпЛА курсом на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75164"
-        },
-        {
-          "id": 75169,
-          "publishedAt": "2026-08-29T06:23:22+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75169"
-        },
-        {
-          "id": 75195,
-          "publishedAt": "2026-08-29T07:58:38+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ зі сходу.",
-          "url": "https://t.me/kpszsu/75195"
-        },
-        {
-          "id": 75198,
-          "publishedAt": "2026-08-29T08:20:18+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з півдня.",
-          "url": "https://t.me/kpszsu/75198"
-        },
-        {
-          "id": 75201,
-          "publishedAt": "2026-08-29T08:27:14+00:00",
-          "text": "🏍 Реактивні БпЛА на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75201"
-        },
-        {
-          "id": 75213,
-          "publishedAt": "2026-08-29T09:51:19+00:00",
-          "text": "🛵 БпЛА на Суми з півночі.\n🏍 Реактивний БпЛА на Київ з півночі.",
-          "url": "https://t.me/kpszsu/75213"
         }
       ]
     }
