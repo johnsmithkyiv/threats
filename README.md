@@ -35,6 +35,6 @@ npm run build
 
 ## Deployment
 
-`.github/workflows/deploy.yml` collects data, tests, builds, commits any collected source posts, and deploys to GitHub Pages. The scheduled job runs every 20 minutes and steadily advances the backfill; backfill can also be started manually from the Actions tab.
+`.github/workflows/deploy.yml` collects data, tests, builds, commits any collected source posts, and deploys to GitHub Pages. The scheduled job runs hourly and steadily advances the backfill. It respects Telegram `Retry-After` responses and deploys only when source-derived dashboard data or code changes.
 
 Enable **Settings -> Pages -> Source: GitHub Actions** in the repository.

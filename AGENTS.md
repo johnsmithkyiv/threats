@@ -22,6 +22,6 @@ npm run build
 
 ## Deployment
 
-- `.github/workflows/deploy.yml` runs recent collection and advances the backfill every 20 minutes before deploying GitHub Pages.
+- `.github/workflows/deploy.yml` runs recent collection and advances the backfill hourly. It respects Telegram retry instructions and deploys Pages only after source-derived dashboard data or code changes.
 - The workflow can also run a backfill manually with the `backfill` input.
 - `vite.config.ts` must keep `base: "/threats/"` for GitHub Pages.

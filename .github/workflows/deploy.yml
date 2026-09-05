@@ -14,7 +14,7 @@ on:
           - recent
           - backfill
   schedule:
-    - cron: "7,27,47 * * * *"
+    - cron: "17 * * * *"
 
 concurrency:
   group: github-pages
@@ -28,6 +28,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      should_deploy: ${{ steps.dashboard.outputs.should_deploy }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -39,25 +41,44 @@ jobs:
         env:
           COLLECTION_MODE: ${{ inputs.mode || 'backfill' }}
         run: npm run collect -- --$COLLECTION_MODE
+      - run: npm test
+      - id: dashboard
+        name: Build dashboard data
+        run: |
+          npm run data
+          data_changed=false
+          if git diff --quiet -- public/data/kyiv-threats-dashboard.json; then
+            data_changed=false
+          else
+            data_changed=true
+          fi
+          echo "data_changed=$data_changed" >> "$GITHUB_OUTPUT"
+          if [ "$GITHUB_EVENT_NAME" = "push" ] || [ "$data_changed" = "true" ]; then
+            echo "should_deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+          fi
       - name: Save collected source posts
         run: |
-          if git diff --quiet -- data/source-posts.json; then
+          if git diff --quiet -- data/source-posts.json public/data/kyiv-threats-dashboard.json; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/source-posts.json
+          git add data/source-posts.json public/data/kyiv-threats-dashboard.json
           git commit -m "Update collected threat reports"
           git push
-      - run: npm test
       - run: npm run build
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - if: steps.dashboard.outputs.should_deploy == 'true'
+        uses: actions/configure-pages@v5
+      - if: steps.dashboard.outputs.should_deploy == 'true'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
   deploy:
     needs: build
+    if: needs.build.outputs.should_deploy == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

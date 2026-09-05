@@ -5,9 +5,9 @@ import { COVERAGE_START, TELEGRAM_SOURCE_URL } from "../src/lib/threats";
 import type { SourcePost, SourceStore } from "../src/types";
 
 const STORE_PATH = resolve("data/source-posts.json");
-const RECENT_PAGE_LIMIT = 3;
-const BACKFILL_PAGE_LIMIT = 20;
-const REQUEST_DELAY_MS = 400;
+const RECENT_PAGE_LIMIT = 10;
+const BACKFILL_PAGE_LIMIT = 60;
+const REQUEST_DELAY_MS = 1_000;
 
 type TelegramPage = {
   posts: SourcePost[];
@@ -23,8 +23,10 @@ async function main() {
   let fetchedPages = 0;
 
   // Always revisit the newest pages so updates are not missed while backfill moves backward.
+  let recentBefore: number | undefined;
+
   for (let pageNumber = 0; pageNumber < RECENT_PAGE_LIMIT; pageNumber += 1) {
-    const page = await fetchTelegramPage();
+    const page = await fetchTelegramPage(recentBefore);
     fetchedPages += 1;
     addKyivCandidatePosts(postsById, page.posts);
 
@@ -32,6 +34,7 @@ async function main() {
       break;
     }
 
+    recentBefore = page.nextBefore;
     await delay(REQUEST_DELAY_MS);
   }
 
@@ -109,7 +112,7 @@ async function fetchTelegramPage(before?: number): Promise<TelegramPage> {
       throw new Error(`Telegram archive request failed: ${response.status} ${response.statusText}`);
     }
 
-    await delay(attempt * 1_000);
+    await delay(getRetryDelay(response.headers.get("retry-after"), attempt));
   }
 
   if (!response?.ok) {
@@ -181,6 +184,24 @@ async function writeStore(store: SourceStore): Promise<void> {
 
 function delay(milliseconds: number): Promise<void> {
   return new Promise((resolveDelay) => setTimeout(resolveDelay, milliseconds));
+}
+
+function getRetryDelay(retryAfter: string | null, attempt: number): number {
+  if (retryAfter) {
+    const seconds = Number(retryAfter);
+
+    if (Number.isFinite(seconds) && seconds >= 0) {
+      return seconds * 1_000;
+    }
+
+    const dateMilliseconds = Date.parse(retryAfter);
+
+    if (Number.isFinite(dateMilliseconds)) {
+      return Math.max(dateMilliseconds - Date.now(), 0);
+    }
+  }
+
+  return Math.min(30_000, 1_000 * 2 ** (attempt - 1)) + Math.floor(Math.random() * 500);
 }
 
 main().catch((error) => {
