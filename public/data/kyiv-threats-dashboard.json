@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T15:25:43.496Z",
+    "generatedAt": "2026-09-05T16:27:00.429Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 1131,
-    "totalObservations": 320,
-    "totalEpisodes": 114,
+    "totalSourcePosts": 1213,
+    "totalObservations": 326,
+    "totalEpisodes": 117,
     "latestSourceAt": "2026-09-05T14:21:52+00:00",
     "collectionComplete": false
   },
@@ -48,6 +48,34 @@
       "categories": {
         "attack-drone": 1,
         "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-06-09",
+      "label": "9 Jun 2026",
+      "start": "2026-06-09",
+      "end": "2026-06-09",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-06-15",
+      "label": "15 Jun 2026",
+      "start": "2026-06-15",
+      "end": "2026-06-15",
+      "total": 2,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -686,14 +714,28 @@
       }
     },
     {
+      "id": "2026-W24",
+      "label": "Uke 24, 2026",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2026-W25",
       "label": "Uke 25, 2026",
       "start": "2026-06-15",
       "end": "2026-06-21",
-      "total": 6,
+      "total": 8,
       "categories": {
-        "attack-drone": 3,
-        "jet-drone": 3,
+        "attack-drone": 4,
+        "jet-drone": 4,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -902,10 +944,10 @@
       "label": "June 2026",
       "start": "2026-06-01",
       "end": "2026-06-30",
-      "total": 8,
+      "total": 11,
       "categories": {
-        "attack-drone": 3,
-        "jet-drone": 4,
+        "attack-drone": 5,
+        "jet-drone": 5,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
