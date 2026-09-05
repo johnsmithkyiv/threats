@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T12:30:45.238Z",
+    "generatedAt": "2026-09-05T13:25:30.934Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 909,
-    "totalObservations": 244,
-    "totalEpisodes": 90,
-    "latestSourceAt": "2026-09-05T12:20:21+00:00",
+    "totalSourcePosts": 946,
+    "totalObservations": 251,
+    "totalEpisodes": 92,
+    "latestSourceAt": "2026-09-05T12:48:42+00:00",
     "collectionComplete": false
   },
   "daily": [
@@ -51,6 +51,34 @@
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-07-15",
+      "label": "15 Jul 2026",
+      "start": "2026-07-15",
+      "end": "2026-07-15",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-07-16",
+      "label": "16 Jul 2026",
+      "start": "2026-07-16",
+      "end": "2026-07-16",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
       }
     },
     {
@@ -536,13 +564,13 @@
       "label": "Uke 29, 2026",
       "start": "2026-07-13",
       "end": "2026-07-19",
-      "total": 2,
+      "total": 4,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 1
+        "ballistic-missile": 2
       }
     },
     {
@@ -692,13 +720,13 @@
       "label": "July 2026",
       "start": "2026-07-01",
       "end": "2026-07-31",
-      "total": 13,
+      "total": 15,
       "categories": {
-        "attack-drone": 3,
+        "attack-drone": 4,
         "jet-drone": 6,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 4
+        "ballistic-missile": 5
       }
     },
     {
