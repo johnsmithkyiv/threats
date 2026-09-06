@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-06T22:26:02.901Z",
+    "generatedAt": "2026-09-06T23:25:28.327Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 4137,
-    "totalObservations": 740,
-    "totalEpisodes": 367,
+    "totalSourcePosts": 4285,
+    "totalObservations": 741,
+    "totalEpisodes": 368,
     "latestSourceAt": "2026-09-06T02:22:53+00:00",
     "collectionComplete": false
   },
@@ -36,6 +36,20 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2025-01-28",
+      "label": "28 Jan 2025",
+      "start": "2025-01-28",
+      "end": "2025-01-28",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
@@ -3234,6 +3248,20 @@
       }
     },
     {
+      "id": "2025-W05",
+      "label": "Uke 05, 2025",
+      "start": "2025-01-27",
+      "end": "2025-02-02",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2025-W06",
       "label": "Uke 06, 2025",
       "start": "2025-02-03",
@@ -4310,6 +4338,20 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2025-01",
+      "label": "January 2025",
+      "start": "2025-01-01",
+      "end": "2025-01-31",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
