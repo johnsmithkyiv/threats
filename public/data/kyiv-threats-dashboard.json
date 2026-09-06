@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-05T23:24:23.972Z",
+    "generatedAt": "2026-09-06T00:39:23.271Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 1793,
-    "totalObservations": 424,
-    "totalEpisodes": 179,
+    "totalSourcePosts": 1870,
+    "totalObservations": 435,
+    "totalEpisodes": 184,
     "latestSourceAt": "2026-09-05T23:17:28+00:00",
     "collectionComplete": false
   },
@@ -44,6 +44,62 @@
       "label": "5 Feb 2026",
       "start": "2026-02-05",
       "end": "2026-02-05",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-02-06",
+      "label": "6 Feb 2026",
+      "start": "2026-02-06",
+      "end": "2026-02-06",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-02-07",
+      "label": "7 Feb 2026",
+      "start": "2026-02-07",
+      "end": "2026-02-07",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-02-12",
+      "label": "12 Feb 2026",
+      "start": "2026-02-12",
+      "end": "2026-02-12",
+      "total": 2,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2026-02-13",
+      "label": "13 Feb 2026",
+      "start": "2026-02-13",
+      "end": "2026-02-13",
       "total": 1,
       "categories": {
         "attack-drone": 1,
@@ -1292,13 +1348,27 @@
       "label": "Uke 06, 2026",
       "start": "2026-02-02",
       "end": "2026-02-08",
-      "total": 1,
+      "total": 3,
       "categories": {
-        "attack-drone": 1,
+        "attack-drone": 3,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2026-W07",
+      "label": "Uke 07, 2026",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "total": 3,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
       }
     },
     {
@@ -1728,13 +1798,13 @@
       "label": "February 2026",
       "start": "2026-02-01",
       "end": "2026-02-28",
-      "total": 6,
+      "total": 11,
       "categories": {
-        "attack-drone": 5,
+        "attack-drone": 9,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
-        "ballistic-missile": 0
+        "ballistic-missile": 1
       }
     },
     {
