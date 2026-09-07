@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T16:28:27.754Z",
+    "generatedAt": "2026-09-07T17:27:14.753Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6030,
-    "totalObservations": 883,
+    "totalSourcePosts": 6042,
+    "totalObservations": 884,
     "totalEpisodes": 468,
-    "latestSourceAt": "2026-09-07T15:44:34+00:00",
+    "latestSourceAt": "2026-09-07T17:14:59+00:00",
     "collectionComplete": false
   },
   "daily": [
@@ -6307,7 +6307,7 @@
       "id": "attack-drone-77023",
       "category": "attack-drone",
       "startedAt": "2026-09-07T14:59:32+00:00",
-      "endedAt": "2026-09-07T15:12:18+00:00",
+      "endedAt": "2026-09-07T16:35:51+00:00",
       "sourcePosts": [
         {
           "id": 77023,
@@ -6320,6 +6320,12 @@
           "publishedAt": "2026-09-07T15:12:18+00:00",
           "text": "🏍 Нова група реактивних БпЛА повз Київське водосховище, курсом на Київ.",
           "url": "https://t.me/kpszsu/77026"
+        },
+        {
+          "id": 77041,
+          "publishedAt": "2026-09-07T16:35:51+00:00",
+          "text": "🏍 Групи реактивних БпЛА з Чернігівщини на Київщину вектором руху на Київ.",
+          "url": "https://t.me/kpszsu/77041"
         }
       ]
     },
