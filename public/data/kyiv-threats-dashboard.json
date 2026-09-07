@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T21:27:56.538Z",
+    "generatedAt": "2026-09-07T22:25:59.932Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6270,
-    "totalObservations": 893,
-    "totalEpisodes": 476,
-    "latestSourceAt": "2026-09-07T21:21:34+00:00",
-    "collectionComplete": false
+    "totalSourcePosts": 6284,
+    "totalObservations": 895,
+    "totalEpisodes": 477,
+    "latestSourceAt": "2026-09-07T22:21:06+00:00",
+    "collectionComplete": true
   },
   "daily": [
     {
@@ -4272,9 +4272,9 @@
       "label": "8 Sep 2026",
       "start": "2026-09-08",
       "end": "2026-09-08",
-      "total": 1,
+      "total": 2,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
@@ -5954,9 +5954,9 @@
       "label": "Uke 37, 2026",
       "start": "2026-09-07",
       "end": "2026-09-13",
-      "total": 4,
+      "total": 5,
       "categories": {
-        "attack-drone": 1,
+        "attack-drone": 2,
         "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6488,9 +6488,9 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 23,
+      "total": 24,
       "categories": {
-        "attack-drone": 4,
+        "attack-drone": 5,
         "jet-drone": 19,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6500,16 +6500,36 @@
   ],
   "recentEpisodes": [
     {
+      "id": "attack-drone-77108",
+      "category": "attack-drone",
+      "startedAt": "2026-09-07T22:21:06+00:00",
+      "endedAt": "2026-09-07T22:21:06+00:00",
+      "sourcePosts": [
+        {
+          "id": 77108,
+          "publishedAt": "2026-09-07T22:21:06+00:00",
+          "text": "🏍 Чабани/Українка/Васильків/Бориспіль/Бровари загроза реактивних БпЛА усі рухаються у напрямку Києва.",
+          "url": "https://t.me/kpszsu/77108"
+        }
+      ]
+    },
+    {
       "id": "jet-drone-77094",
       "category": "jet-drone",
       "startedAt": "2026-09-07T21:21:34+00:00",
-      "endedAt": "2026-09-07T21:21:34+00:00",
+      "endedAt": "2026-09-07T21:34:20+00:00",
       "sourcePosts": [
         {
           "id": 77094,
           "publishedAt": "2026-09-07T21:21:34+00:00",
           "text": "🏍 Реактивний БпЛА в р-ні. Київського водосховища у напрямку Києва.",
           "url": "https://t.me/kpszsu/77094"
+        },
+        {
+          "id": 77100,
+          "publishedAt": "2026-09-07T21:34:20+00:00",
+          "text": "🏍 Реактивний БпЛА в р-ні. Козина у напрямку Києва.",
+          "url": "https://t.me/kpszsu/77100"
         }
       ]
     },
@@ -7142,50 +7162,6 @@
           "publishedAt": "2026-08-30T19:49:06+00:00",
           "text": "🏍 Київ - реактивний БпЛА над містом.",
           "url": "https://t.me/kpszsu/75501"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-75392",
-      "category": "jet-drone",
-      "startedAt": "2026-08-30T08:02:42+00:00",
-      "endedAt": "2026-08-30T13:29:29+00:00",
-      "sourcePosts": [
-        {
-          "id": 75392,
-          "publishedAt": "2026-08-30T08:02:42+00:00",
-          "text": "🏍 Реактивний БпЛА повз Київське водосховище, курсом на Київ.",
-          "url": "https://t.me/kpszsu/75392"
-        },
-        {
-          "id": 75417,
-          "publishedAt": "2026-08-30T09:38:36+00:00",
-          "text": "🏍 Реактивні БпЛА на Київ та Бровари.",
-          "url": "https://t.me/kpszsu/75417"
-        },
-        {
-          "id": 75423,
-          "publishedAt": "2026-08-30T10:06:35+00:00",
-          "text": "🏍 Київщина: \n🏍 реактивні БпЛА на околицях Василькова - курс на Київ.\n🏍 реактивний БпЛА на Бориспіль.\n🏍 реактивний над містом - південним напрямком.",
-          "url": "https://t.me/kpszsu/75423"
-        },
-        {
-          "id": 75427,
-          "publishedAt": "2026-08-30T10:37:34+00:00",
-          "text": "🏍 Київ - реактивний БпЛА в напрямку міста з півдня.",
-          "url": "https://t.me/kpszsu/75427"
-        },
-        {
-          "id": 75435,
-          "publishedAt": "2026-08-30T11:57:06+00:00",
-          "text": "🏍 Реактивні БпЛА повз Київське водосховище, курсом на Київ.",
-          "url": "https://t.me/kpszsu/75435"
-        },
-        {
-          "id": 75457,
-          "publishedAt": "2026-08-30T13:29:29+00:00",
-          "text": "🏍 Київ - реактивний БпЛА над містом - в південному напрямку.",
-          "url": "https://t.me/kpszsu/75457"
         }
       ]
     }
