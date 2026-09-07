@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T07:30:28.280Z",
+    "generatedAt": "2026-09-07T08:31:23.240Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 5516,
-    "totalObservations": 843,
-    "totalEpisodes": 439,
+    "totalSourcePosts": 5604,
+    "totalObservations": 850,
+    "totalEpisodes": 442,
     "latestSourceAt": "2026-09-06T02:22:53+00:00",
     "collectionComplete": false
   },
@@ -30,12 +30,26 @@
       "label": "16 Jul 2024",
       "start": "2024-07-16",
       "end": "2024-07-16",
-      "total": 1,
+      "total": 2,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-07-31",
+      "label": "31 Jul 2024",
+      "start": "2024-07-31",
+      "end": "2024-07-31",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
@@ -3938,12 +3952,26 @@
       "label": "Uke 29, 2024",
       "start": "2024-07-15",
       "end": "2024-07-21",
-      "total": 1,
+      "total": 2,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-W31",
+      "label": "Uke 31, 2024",
+      "start": "2024-07-29",
+      "end": "2024-08-04",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
@@ -5312,9 +5340,9 @@
       "label": "July 2024",
       "start": "2024-07-01",
       "end": "2024-07-31",
-      "total": 1,
+      "total": 4,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 3,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
