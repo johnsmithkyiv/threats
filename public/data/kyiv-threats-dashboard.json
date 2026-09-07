@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T11:29:11.863Z",
+    "generatedAt": "2026-09-07T12:35:03.394Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 5755,
-    "totalObservations": 858,
-    "totalEpisodes": 449,
+    "totalSourcePosts": 5796,
+    "totalObservations": 859,
+    "totalEpisodes": 450,
     "latestSourceAt": "2026-09-07T09:04:12+00:00",
     "collectionComplete": false
   },
@@ -22,6 +22,20 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-03-22",
+      "label": "22 Mar 2024",
+      "start": "2024-03-22",
+      "end": "2024-03-22",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
         "ballistic-missile": 0
       }
     },
@@ -4018,6 +4032,20 @@
       }
     },
     {
+      "id": "2024-W12",
+      "label": "Uke 12, 2024",
+      "start": "2024-03-18",
+      "end": "2024-03-24",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2024-W14",
       "label": "Uke 14, 2024",
       "start": "2024-04-01",
@@ -5472,6 +5500,20 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-03",
+      "label": "March 2024",
+      "start": "2024-03-01",
+      "end": "2024-03-31",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
         "ballistic-missile": 0
       }
     },
