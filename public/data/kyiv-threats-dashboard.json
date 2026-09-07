@@ -1,16 +1,30 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T19:26:15.723Z",
+    "generatedAt": "2026-09-07T20:28:38.468Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6126,
-    "totalObservations": 891,
-    "totalEpisodes": 474,
-    "latestSourceAt": "2026-09-07T18:06:14+00:00",
+    "totalSourcePosts": 6171,
+    "totalObservations": 892,
+    "totalEpisodes": 475,
+    "latestSourceAt": "2026-09-07T19:43:28+00:00",
     "collectionComplete": false
   },
   "daily": [
+    {
+      "id": "2023-06-20",
+      "label": "20 Jun 2023",
+      "start": "2023-06-20",
+      "end": "2023-06-20",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
     {
       "id": "2023-07-02",
       "label": "2 Jul 2023",
@@ -4256,6 +4270,20 @@
   ],
   "weekly": [
     {
+      "id": "2023-W25",
+      "label": "Uke 25, 2023",
+      "start": "2023-06-19",
+      "end": "2023-06-25",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2023-W26",
       "label": "Uke 26, 2023",
       "start": "2023-06-26",
@@ -5923,6 +5951,20 @@
     }
   ],
   "monthly": [
+    {
+      "id": "2023-06",
+      "label": "June 2023",
+      "start": "2023-06-01",
+      "end": "2023-06-30",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
     {
       "id": "2023-07",
       "label": "July 2023",
