@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T06:36:39.569Z",
+    "generatedAt": "2026-09-07T07:30:28.280Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 5378,
-    "totalObservations": 838,
-    "totalEpisodes": 434,
+    "totalSourcePosts": 5516,
+    "totalObservations": 843,
+    "totalEpisodes": 439,
     "latestSourceAt": "2026-09-06T02:22:53+00:00",
     "collectionComplete": false
   },
@@ -36,6 +36,48 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-08-05",
+      "label": "5 Aug 2024",
+      "start": "2024-08-05",
+      "end": "2024-08-05",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-08-26",
+      "label": "26 Aug 2024",
+      "start": "2024-08-26",
+      "end": "2024-08-26",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-08-27",
+      "label": "27 Aug 2024",
+      "start": "2024-08-27",
+      "end": "2024-08-27",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
@@ -3906,13 +3948,27 @@
       }
     },
     {
+      "id": "2024-W32",
+      "label": "Uke 32, 2024",
+      "start": "2024-08-05",
+      "end": "2024-08-11",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2024-W35",
       "label": "Uke 35, 2024",
       "start": "2024-08-26",
       "end": "2024-09-01",
-      "total": 4,
+      "total": 8,
       "categories": {
-        "attack-drone": 4,
+        "attack-drone": 8,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
@@ -5270,9 +5326,9 @@
       "label": "August 2024",
       "start": "2024-08-01",
       "end": "2024-08-31",
-      "total": 4,
+      "total": 9,
       "categories": {
-        "attack-drone": 4,
+        "attack-drone": 9,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
