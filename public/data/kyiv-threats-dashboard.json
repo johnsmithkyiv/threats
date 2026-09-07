@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T01:26:32.912Z",
+    "generatedAt": "2026-09-07T02:28:45.635Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 4551,
-    "totalObservations": 748,
-    "totalEpisodes": 375,
+    "totalSourcePosts": 4752,
+    "totalObservations": 757,
+    "totalEpisodes": 382,
     "latestSourceAt": "2026-09-06T02:22:53+00:00",
     "collectionComplete": false
   },
@@ -36,6 +36,90 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-11-24",
+      "label": "24 Nov 2024",
+      "start": "2024-11-24",
+      "end": "2024-11-24",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-11-27",
+      "label": "27 Nov 2024",
+      "start": "2024-11-27",
+      "end": "2024-11-27",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-11-28",
+      "label": "28 Nov 2024",
+      "start": "2024-11-28",
+      "end": "2024-11-28",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-11-30",
+      "label": "30 Nov 2024",
+      "start": "2024-11-30",
+      "end": "2024-11-30",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-12-01",
+      "label": "1 Dec 2024",
+      "start": "2024-12-01",
+      "end": "2024-12-01",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-12-07",
+      "label": "7 Dec 2024",
+      "start": "2024-12-07",
+      "end": "2024-12-07",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
@@ -3346,6 +3430,48 @@
       }
     },
     {
+      "id": "2024-W47",
+      "label": "Uke 47, 2024",
+      "start": "2024-11-18",
+      "end": "2024-11-24",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-W48",
+      "label": "Uke 48, 2024",
+      "start": "2024-11-25",
+      "end": "2024-12-01",
+      "total": 4,
+      "categories": {
+        "attack-drone": 4,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-W49",
+      "label": "Uke 49, 2024",
+      "start": "2024-12-02",
+      "end": "2024-12-08",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2024-W50",
       "label": "Uke 50, 2024",
       "start": "2024-12-09",
@@ -4496,13 +4622,27 @@
       }
     },
     {
+      "id": "2024-11",
+      "label": "November 2024",
+      "start": "2024-11-01",
+      "end": "2024-11-30",
+      "total": 4,
+      "categories": {
+        "attack-drone": 4,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2024-12",
       "label": "December 2024",
       "start": "2024-12-01",
       "end": "2024-12-31",
-      "total": 6,
+      "total": 9,
       "categories": {
-        "attack-drone": 6,
+        "attack-drone": 9,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
