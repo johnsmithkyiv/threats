@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-07T05:27:41.107Z",
+    "generatedAt": "2026-09-07T06:36:39.569Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 5232,
-    "totalObservations": 821,
-    "totalEpisodes": 421,
+    "totalSourcePosts": 5378,
+    "totalObservations": 838,
+    "totalEpisodes": 434,
     "latestSourceAt": "2026-09-06T02:22:53+00:00",
     "collectionComplete": false
   },
@@ -36,6 +36,146 @@
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 1,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-08-29",
+      "label": "29 Aug 2024",
+      "start": "2024-08-29",
+      "end": "2024-08-29",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-08-31",
+      "label": "31 Aug 2024",
+      "start": "2024-08-31",
+      "end": "2024-08-31",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-02",
+      "label": "2 Sep 2024",
+      "start": "2024-09-02",
+      "end": "2024-09-02",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2024-09-04",
+      "label": "4 Sep 2024",
+      "start": "2024-09-04",
+      "end": "2024-09-04",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-07",
+      "label": "7 Sep 2024",
+      "start": "2024-09-07",
+      "end": "2024-09-07",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-09",
+      "label": "9 Sep 2024",
+      "start": "2024-09-09",
+      "end": "2024-09-09",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-12",
+      "label": "12 Sep 2024",
+      "start": "2024-09-12",
+      "end": "2024-09-12",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-14",
+      "label": "14 Sep 2024",
+      "start": "2024-09-14",
+      "end": "2024-09-14",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-16",
+      "label": "16 Sep 2024",
+      "start": "2024-09-16",
+      "end": "2024-09-16",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09-17",
+      "label": "17 Sep 2024",
+      "start": "2024-09-17",
+      "end": "2024-09-17",
+      "total": 1,
+      "categories": {
+        "attack-drone": 1,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
         "ballistic-missile": 0
       }
     },
@@ -3766,6 +3906,62 @@
       }
     },
     {
+      "id": "2024-W35",
+      "label": "Uke 35, 2024",
+      "start": "2024-08-26",
+      "end": "2024-09-01",
+      "total": 4,
+      "categories": {
+        "attack-drone": 4,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-W36",
+      "label": "Uke 36, 2024",
+      "start": "2024-09-02",
+      "end": "2024-09-08",
+      "total": 4,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
+        "ballistic-missile": 1
+      }
+    },
+    {
+      "id": "2024-W37",
+      "label": "Uke 37, 2024",
+      "start": "2024-09-09",
+      "end": "2024-09-15",
+      "total": 3,
+      "categories": {
+        "attack-drone": 3,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-W38",
+      "label": "Uke 38, 2024",
+      "start": "2024-09-16",
+      "end": "2024-09-22",
+      "total": 2,
+      "categories": {
+        "attack-drone": 2,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
+    },
+    {
       "id": "2024-W39",
       "label": "Uke 39, 2024",
       "start": "2024-09-23",
@@ -5070,17 +5266,31 @@
       }
     },
     {
-      "id": "2024-09",
-      "label": "September 2024",
-      "start": "2024-09-01",
-      "end": "2024-09-30",
-      "total": 3,
+      "id": "2024-08",
+      "label": "August 2024",
+      "start": "2024-08-01",
+      "end": "2024-08-31",
+      "total": 4,
       "categories": {
-        "attack-drone": 3,
+        "attack-drone": 4,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
+      }
+    },
+    {
+      "id": "2024-09",
+      "label": "September 2024",
+      "start": "2024-09-01",
+      "end": "2024-09-30",
+      "total": 12,
+      "categories": {
+        "attack-drone": 10,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 1,
+        "ballistic-missile": 1
       }
     },
     {
