@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-08T22:26:28.243Z",
+    "generatedAt": "2026-09-08T23:24:42.514Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6377,
-    "totalObservations": 911,
+    "totalSourcePosts": 6382,
+    "totalObservations": 913,
     "totalEpisodes": 484,
-    "latestSourceAt": "2026-09-08T22:14:40+00:00",
+    "latestSourceAt": "2026-09-08T23:22:17+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6517,13 +6517,25 @@
       "id": "jet-drone-77341",
       "category": "jet-drone",
       "startedAt": "2026-09-08T22:14:40+00:00",
-      "endedAt": "2026-09-08T22:14:40+00:00",
+      "endedAt": "2026-09-08T23:06:39+00:00",
       "sourcePosts": [
         {
           "id": 77341,
           "publishedAt": "2026-09-08T22:14:40+00:00",
           "text": "🏍 Реактивний БпЛА  в р-ні. Кагарлик північним курсом у напрямку  Києва.",
           "url": "https://t.me/kpszsu/77341"
+        },
+        {
+          "id": 77345,
+          "publishedAt": "2026-09-08T22:59:39+00:00",
+          "text": "🏍Реактивний БпЛА в р-ні. Козина у напрямку Києва.",
+          "url": "https://t.me/kpszsu/77345"
+        },
+        {
+          "id": 77346,
+          "publishedAt": "2026-09-08T23:06:39+00:00",
+          "text": "🏍 Реактивний БпЛА в р-ні. Київського водосховища у напрямку Києва.",
+          "url": "https://t.me/kpszsu/77346"
         }
       ]
     },
