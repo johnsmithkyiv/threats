@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-08T15:29:59.313Z",
+    "generatedAt": "2026-09-08T16:30:39.743Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6357,
-    "totalObservations": 907,
+    "totalSourcePosts": 6362,
+    "totalObservations": 908,
     "totalEpisodes": 483,
-    "latestSourceAt": "2026-09-08T15:27:13+00:00",
+    "latestSourceAt": "2026-09-08T16:14:42+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6503,13 +6503,19 @@
       "id": "jet-drone-77272",
       "category": "jet-drone",
       "startedAt": "2026-09-08T14:36:35+00:00",
-      "endedAt": "2026-09-08T14:36:35+00:00",
+      "endedAt": "2026-09-08T16:03:41+00:00",
       "sourcePosts": [
         {
           "id": 77272,
           "publishedAt": "2026-09-08T14:36:35+00:00",
           "text": "🏍 Реактивний БпЛА повз Київське водосховище, курсом на Київ.",
           "url": "https://t.me/kpszsu/77272"
+        },
+        {
+          "id": 77290,
+          "publishedAt": "2026-09-08T16:03:41+00:00",
+          "text": "🏍 Реактивний БпЛа на Бровари у напрямку  Києва.",
+          "url": "https://t.me/kpszsu/77290"
         }
       ]
     },
