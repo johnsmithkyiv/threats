@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-09T08:28:33.885Z",
+    "generatedAt": "2026-09-09T09:28:59.495Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6404,
-    "totalObservations": 915,
+    "totalSourcePosts": 6413,
+    "totalObservations": 918,
     "totalEpisodes": 485,
-    "latestSourceAt": "2026-09-09T08:15:13+00:00",
+    "latestSourceAt": "2026-09-09T09:22:28+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6517,13 +6517,31 @@
       "id": "jet-drone-77414",
       "category": "jet-drone",
       "startedAt": "2026-09-09T08:08:28+00:00",
-      "endedAt": "2026-09-09T08:08:28+00:00",
+      "endedAt": "2026-09-09T09:22:28+00:00",
       "sourcePosts": [
         {
           "id": 77414,
           "publishedAt": "2026-09-09T08:08:28+00:00",
           "text": "🏍 Реактивний БпЛа на Бровари у напрямку  Києва.",
           "url": "https://t.me/kpszsu/77414"
+        },
+        {
+          "id": 77421,
+          "publishedAt": "2026-09-09T08:37:44+00:00",
+          "text": "🏍 Реактивний БпЛа на Бровари у напрямку  Києва.",
+          "url": "https://t.me/kpszsu/77421"
+        },
+        {
+          "id": 77426,
+          "publishedAt": "2026-09-09T09:09:37+00:00",
+          "text": "🏍 Реактивний БпЛА у напрямку Києва/Вишгорода з півночі.",
+          "url": "https://t.me/kpszsu/77426"
+        },
+        {
+          "id": 77429,
+          "publishedAt": "2026-09-09T09:22:28+00:00",
+          "text": "🏍 Реактивний БпЛа на Бровари у напрямку  Києва.",
+          "url": "https://t.me/kpszsu/77429"
         }
       ]
     },
