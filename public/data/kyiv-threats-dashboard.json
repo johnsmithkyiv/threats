@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-17T05:26:39.439Z",
+    "generatedAt": "2026-09-17T06:33:42.985Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6634,
-    "totalObservations": 953,
-    "totalEpisodes": 505,
-    "latestSourceAt": "2026-09-17T05:00:01+00:00",
+    "totalSourcePosts": 6636,
+    "totalObservations": 954,
+    "totalEpisodes": 506,
+    "latestSourceAt": "2026-09-17T06:30:56+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4392,6 +4392,20 @@
         "cruise-missile": 0,
         "ballistic-missile": 0
       }
+    },
+    {
+      "id": "2026-09-17",
+      "label": "17 Sep 2026",
+      "start": "2026-09-17",
+      "end": "2026-09-17",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 1,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
     }
   ],
   "weekly": [
@@ -6080,10 +6094,10 @@
       "label": "Uke 38, 2026",
       "start": "2026-09-14",
       "end": "2026-09-20",
-      "total": 6,
+      "total": 7,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 6,
+        "jet-drone": 7,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6614,10 +6628,10 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 52,
+      "total": 53,
       "categories": {
         "attack-drone": 6,
-        "jet-drone": 45,
+        "jet-drone": 46,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6625,6 +6639,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-78635",
+      "category": "jet-drone",
+      "startedAt": "2026-09-17T05:54:57+00:00",
+      "endedAt": "2026-09-17T05:54:57+00:00",
+      "sourcePosts": [
+        {
+          "id": 78635,
+          "publishedAt": "2026-09-17T05:54:57+00:00",
+          "text": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва",
+          "url": "https://t.me/kpszsu/78635"
+        }
+      ]
+    },
     {
       "id": "jet-drone-78451",
       "category": "jet-drone",
@@ -7208,26 +7236,6 @@
           "publishedAt": "2026-09-07T22:21:06+00:00",
           "text": "🏍 Чабани/Українка/Васильків/Бориспіль/Бровари загроза реактивних БпЛА усі рухаються у напрямку Києва.",
           "url": "https://t.me/kpszsu/77108"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-77094",
-      "category": "jet-drone",
-      "startedAt": "2026-09-07T21:21:34+00:00",
-      "endedAt": "2026-09-07T21:34:20+00:00",
-      "sourcePosts": [
-        {
-          "id": 77094,
-          "publishedAt": "2026-09-07T21:21:34+00:00",
-          "text": "🏍 Реактивний БпЛА в р-ні. Київського водосховища у напрямку Києва.",
-          "url": "https://t.me/kpszsu/77094"
-        },
-        {
-          "id": 77100,
-          "publishedAt": "2026-09-07T21:34:20+00:00",
-          "text": "🏍 Реактивний БпЛА в р-ні. Козина у напрямку Києва.",
-          "url": "https://t.me/kpszsu/77100"
         }
       ]
     }
