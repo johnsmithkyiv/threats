@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-22T10:27:58.415Z",
+    "generatedAt": "2026-09-22T11:26:09.523Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6808,
-    "totalObservations": 980,
+    "totalSourcePosts": 6813,
+    "totalObservations": 983,
     "totalEpisodes": 523,
-    "latestSourceAt": "2026-09-22T10:27:05+00:00",
+    "latestSourceAt": "2026-09-22T11:14:37+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6727,7 +6727,7 @@
       "id": "jet-drone-79492",
       "category": "jet-drone",
       "startedAt": "2026-09-22T10:04:01+00:00",
-      "endedAt": "2026-09-22T10:27:05+00:00",
+      "endedAt": "2026-09-22T11:08:56+00:00",
       "sourcePosts": [
         {
           "id": 79492,
@@ -6740,6 +6740,24 @@
           "publishedAt": "2026-09-22T10:27:05+00:00",
           "text": "🏍 Реактивний БпЛА курсом на Київ з півдня.",
           "url": "https://t.me/kpszsu/79503"
+        },
+        {
+          "id": 79507,
+          "publishedAt": "2026-09-22T10:43:25+00:00",
+          "text": "🏍 Київ - реактивний БпЛА над містом.",
+          "url": "https://t.me/kpszsu/79507"
+        },
+        {
+          "id": 79511,
+          "publishedAt": "2026-09-22T11:03:23+00:00",
+          "text": "🏍 Київщина: реактивний БпЛА курсом на Київ з півдня.",
+          "url": "https://t.me/kpszsu/79511"
+        },
+        {
+          "id": 79512,
+          "publishedAt": "2026-09-22T11:08:56+00:00",
+          "text": "🏍 Київ - реактивний БпЛА над містом.",
+          "url": "https://t.me/kpszsu/79512"
         }
       ]
     },
