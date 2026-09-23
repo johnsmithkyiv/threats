@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-23T02:27:11.850Z",
+    "generatedAt": "2026-09-23T03:27:16.607Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6852,
-    "totalObservations": 991,
+    "totalSourcePosts": 6855,
+    "totalObservations": 993,
     "totalEpisodes": 527,
-    "latestSourceAt": "2026-09-23T01:51:34+00:00",
+    "latestSourceAt": "2026-09-23T03:16:09+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6741,7 +6741,7 @@
       "id": "jet-drone-79618",
       "category": "jet-drone",
       "startedAt": "2026-09-23T00:18:51+00:00",
-      "endedAt": "2026-09-23T01:51:34+00:00",
+      "endedAt": "2026-09-23T03:16:09+00:00",
       "sourcePosts": [
         {
           "id": 79618,
@@ -6754,6 +6754,18 @@
           "publishedAt": "2026-09-23T01:51:34+00:00",
           "text": "🏍 Реактивний БпЛА заходить на Київ з півдня.",
           "url": "https://t.me/kpszsu/79628"
+        },
+        {
+          "id": 79635,
+          "publishedAt": "2026-09-23T02:54:36+00:00",
+          "text": "🏍 Київщина: реактивний БпЛА повз Димер у напрямку Києва.",
+          "url": "https://t.me/kpszsu/79635"
+        },
+        {
+          "id": 79639,
+          "publishedAt": "2026-09-23T03:16:09+00:00",
+          "text": "🏍 Київщина: реактивні БпЛА повз Димер у напрямку Києва.",
+          "url": "https://t.me/kpszsu/79639"
         }
       ]
     },
