@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-23T22:25:32.866Z",
+    "generatedAt": "2026-09-23T23:22:26.895Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6904,
-    "totalObservations": 1007,
+    "totalSourcePosts": 6914,
+    "totalObservations": 1014,
     "totalEpisodes": 532,
-    "latestSourceAt": "2026-09-23T22:05:56+00:00",
+    "latestSourceAt": "2026-09-23T23:01:09+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6769,7 +6769,7 @@
       "id": "ballistic-missile-79776",
       "category": "ballistic-missile",
       "startedAt": "2026-09-23T21:58:21+00:00",
-      "endedAt": "2026-09-23T22:01:34+00:00",
+      "endedAt": "2026-09-23T22:52:33+00:00",
       "sourcePosts": [
         {
           "id": 79776,
@@ -6794,6 +6794,48 @@
           "publishedAt": "2026-09-23T22:01:34+00:00",
           "text": "🚀Балістична ракета на Київ зі сходу.",
           "url": "https://t.me/kpszsu/79780"
+        },
+        {
+          "id": 79787,
+          "publishedAt": "2026-09-23T22:25:22+00:00",
+          "text": "🚀Балістична ракета на Чернігівщині у напрямку Києва.",
+          "url": "https://t.me/kpszsu/79787"
+        },
+        {
+          "id": 79789,
+          "publishedAt": "2026-09-23T22:27:18+00:00",
+          "text": "🚀Балістичні ракети на Київ з півночі",
+          "url": "https://t.me/kpszsu/79789"
+        },
+        {
+          "id": 79790,
+          "publishedAt": "2026-09-23T22:27:57+00:00",
+          "text": "🚀Балістичні ракети на Київ через Бровари",
+          "url": "https://t.me/kpszsu/79790"
+        },
+        {
+          "id": 79791,
+          "publishedAt": "2026-09-23T22:29:14+00:00",
+          "text": "🚀Ще балістична ракета з Чернігівщини на Київ з півночі",
+          "url": "https://t.me/kpszsu/79791"
+        },
+        {
+          "id": 79792,
+          "publishedAt": "2026-09-23T22:29:34+00:00",
+          "text": "🚀Балістичні ракети на Київ через Бровари",
+          "url": "https://t.me/kpszsu/79792"
+        },
+        {
+          "id": 79793,
+          "publishedAt": "2026-09-23T22:30:16+00:00",
+          "text": "🚀Ще балістична ракета на Київ через Бровари",
+          "url": "https://t.me/kpszsu/79793"
+        },
+        {
+          "id": 79801,
+          "publishedAt": "2026-09-23T22:52:33+00:00",
+          "text": "🚀Ще балістична ракета на Київ",
+          "url": "https://t.me/kpszsu/79801"
         }
       ]
     },
