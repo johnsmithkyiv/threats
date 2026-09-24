@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-24T05:26:21.655Z",
+    "generatedAt": "2026-09-24T06:32:49.879Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6931,
-    "totalObservations": 1020,
+    "totalSourcePosts": 6934,
+    "totalObservations": 1021,
     "totalEpisodes": 535,
-    "latestSourceAt": "2026-09-24T05:20:44+00:00",
+    "latestSourceAt": "2026-09-24T06:05:01+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6755,13 +6755,19 @@
       "id": "attack-drone-79860",
       "category": "attack-drone",
       "startedAt": "2026-09-24T05:01:57+00:00",
-      "endedAt": "2026-09-24T05:01:57+00:00",
+      "endedAt": "2026-09-24T05:55:13+00:00",
       "sourcePosts": [
         {
           "id": 79860,
           "publishedAt": "2026-09-24T05:01:57+00:00",
           "text": "🗺 Київщина\n🛵 Ударні БпЛА в р-ні Фастова, Узину та Сквири курс західний.\n🛵 Ударні БпЛА в р-ні Київського водосховища у напрямку Києва.",
           "url": "https://t.me/kpszsu/79860"
+        },
+        {
+          "id": 79869,
+          "publishedAt": "2026-09-24T05:55:13+00:00",
+          "text": "🛵 Ударний БпЛА на Київ з півночі",
+          "url": "https://t.me/kpszsu/79869"
         }
       ]
     },
