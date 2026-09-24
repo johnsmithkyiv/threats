@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-24T09:28:16.554Z",
+    "generatedAt": "2026-09-24T10:27:47.732Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6942,
-    "totalObservations": 1024,
-    "totalEpisodes": 536,
-    "latestSourceAt": "2026-09-24T08:58:37+00:00",
+    "totalSourcePosts": 6945,
+    "totalObservations": 1025,
+    "totalEpisodes": 537,
+    "latestSourceAt": "2026-09-24T10:06:46+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4496,10 +4496,10 @@
       "label": "24 Sep 2026",
       "start": "2026-09-24",
       "end": "2026-09-24",
-      "total": 6,
+      "total": 7,
       "categories": {
         "attack-drone": 4,
-        "jet-drone": 1,
+        "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6206,10 +6206,10 @@
       "label": "Uke 39, 2026",
       "start": "2026-09-21",
       "end": "2026-09-27",
-      "total": 19,
+      "total": 20,
       "categories": {
         "attack-drone": 6,
-        "jet-drone": 12,
+        "jet-drone": 13,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6740,10 +6740,10 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 83,
+      "total": 84,
       "categories": {
         "attack-drone": 15,
-        "jet-drone": 66,
+        "jet-drone": 67,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 2
@@ -6751,6 +6751,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-79926",
+      "category": "jet-drone",
+      "startedAt": "2026-09-24T10:06:46+00:00",
+      "endedAt": "2026-09-24T10:06:46+00:00",
+      "sourcePosts": [
+        {
+          "id": 79926,
+          "publishedAt": "2026-09-24T10:06:46+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ.\n🏍 Реактивний БпЛА поблизу Одеси, здійснює хаотичне переміщення.",
+          "url": "https://t.me/kpszsu/79926"
+        }
+      ]
+    },
     {
       "id": "jet-drone-79883",
       "category": "jet-drone",
@@ -7394,20 +7408,6 @@
           "publishedAt": "2026-09-17T19:52:02+00:00",
           "text": "🏍 Реактивний БпЛА змінив вектор руху на Київ.",
           "url": "https://t.me/kpszsu/78727"
-        }
-      ]
-    },
-    {
-      "id": "attack-drone-78654",
-      "category": "attack-drone",
-      "startedAt": "2026-09-17T08:39:29+00:00",
-      "endedAt": "2026-09-17T08:39:29+00:00",
-      "sourcePosts": [
-        {
-          "id": 78654,
-          "publishedAt": "2026-09-17T08:39:29+00:00",
-          "text": "🏍 Реактивний \\БпЛА в р-ні Боярки змінює вектор руху на Київ.",
-          "url": "https://t.me/kpszsu/78654"
         }
       ]
     }
