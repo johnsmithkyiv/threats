@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-23T23:22:26.895Z",
+    "generatedAt": "2026-09-24T00:34:06.984Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 6914,
-    "totalObservations": 1014,
-    "totalEpisodes": 532,
-    "latestSourceAt": "2026-09-23T23:01:09+00:00",
+    "totalSourcePosts": 6918,
+    "totalObservations": 1016,
+    "totalEpisodes": 533,
+    "latestSourceAt": "2026-09-24T00:33:03+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4496,9 +4496,9 @@
       "label": "24 Sep 2026",
       "start": "2026-09-24",
       "end": "2026-09-24",
-      "total": 2,
+      "total": 3,
       "categories": {
-        "attack-drone": 1,
+        "attack-drone": 2,
         "jet-drone": 0,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6206,9 +6206,9 @@
       "label": "Uke 39, 2026",
       "start": "2026-09-21",
       "end": "2026-09-27",
-      "total": 15,
+      "total": 16,
       "categories": {
-        "attack-drone": 3,
+        "attack-drone": 4,
         "jet-drone": 11,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6740,9 +6740,9 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 79,
+      "total": 80,
       "categories": {
-        "attack-drone": 12,
+        "attack-drone": 13,
         "jet-drone": 65,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6751,6 +6751,26 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "attack-drone-79816",
+      "category": "attack-drone",
+      "startedAt": "2026-09-24T00:14:57+00:00",
+      "endedAt": "2026-09-24T00:24:45+00:00",
+      "sourcePosts": [
+        {
+          "id": 79816,
+          "publishedAt": "2026-09-24T00:14:57+00:00",
+          "text": "🛵 Ударний БпЛА над Київським водосховищем рухається у напрямку Києва",
+          "url": "https://t.me/kpszsu/79816"
+        },
+        {
+          "id": 79819,
+          "publishedAt": "2026-09-24T00:24:45+00:00",
+          "text": "🛵 Декілька груп ударних БпЛА над Київським водосховищем рухається у напрямку Києва",
+          "url": "https://t.me/kpszsu/79819"
+        }
+      ]
+    },
     {
       "id": "attack-drone-79781",
       "category": "attack-drone",
@@ -7358,20 +7378,6 @@
           "publishedAt": "2026-09-15T19:27:31+00:00",
           "text": "🏍 Реактивний БпЛА над Борисполем у напрямку Києва західним курсом",
           "url": "https://t.me/kpszsu/78417"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-78400",
-      "category": "jet-drone",
-      "startedAt": "2026-09-15T16:45:58+00:00",
-      "endedAt": "2026-09-15T16:45:58+00:00",
-      "sourcePosts": [
-        {
-          "id": 78400,
-          "publishedAt": "2026-09-15T16:45:58+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ із заходу.",
-          "url": "https://t.me/kpszsu/78400"
         }
       ]
     }
