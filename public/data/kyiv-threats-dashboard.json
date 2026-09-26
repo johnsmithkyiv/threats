@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T15:26:21.420Z",
+    "generatedAt": "2026-09-26T16:27:11.177Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7057,
-    "totalObservations": 1044,
-    "totalEpisodes": 546,
-    "latestSourceAt": "2026-09-26T15:26:03+00:00",
+    "totalSourcePosts": 7061,
+    "totalObservations": 1045,
+    "totalEpisodes": 547,
+    "latestSourceAt": "2026-09-26T16:23:10+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4524,10 +4524,10 @@
       "label": "26 Sep 2026",
       "start": "2026-09-26",
       "end": "2026-09-26",
-      "total": 3,
+      "total": 4,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 3,
+        "jet-drone": 4,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6234,10 +6234,10 @@
       "label": "Uke 39, 2026",
       "start": "2026-09-21",
       "end": "2026-09-27",
-      "total": 29,
+      "total": 30,
       "categories": {
         "attack-drone": 7,
-        "jet-drone": 21,
+        "jet-drone": 22,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6768,10 +6768,10 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 93,
+      "total": 94,
       "categories": {
         "attack-drone": 16,
-        "jet-drone": 75,
+        "jet-drone": 76,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 2
@@ -6779,6 +6779,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-80402",
+      "category": "jet-drone",
+      "startedAt": "2026-09-26T15:33:50+00:00",
+      "endedAt": "2026-09-26T15:33:50+00:00",
+      "sourcePosts": [
+        {
+          "id": 80402,
+          "publishedAt": "2026-09-26T15:33:50+00:00",
+          "text": "🏍 Київщина: ще один реактивний БпЛА повз Вишгород на Київ.",
+          "url": "https://t.me/kpszsu/80402"
+        }
+      ]
+    },
     {
       "id": "jet-drone-80320",
       "category": "jet-drone",
@@ -7446,32 +7460,6 @@
           "publishedAt": "2026-09-21T00:55:30+00:00",
           "text": "🏍 Реактивний БпЛА на Київ через Вишгород курс південно-західний",
           "url": "https://t.me/kpszsu/79250"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-79213",
-      "category": "jet-drone",
-      "startedAt": "2026-09-20T16:38:19+00:00",
-      "endedAt": "2026-09-20T20:35:05+00:00",
-      "sourcePosts": [
-        {
-          "id": 79213,
-          "publishedAt": "2026-09-20T16:38:19+00:00",
-          "text": "🏍 Реактивні БпЛА на Київщині в р-ні Іванкова курсом на Київ.",
-          "url": "https://t.me/kpszsu/79213"
-        },
-        {
-          "id": 79220,
-          "publishedAt": "2026-09-20T18:35:25+00:00",
-          "text": "🏍 Реактивні БпЛА на Київщині в р-ні Вишгород, Вишневе курсом на Київ.",
-          "url": "https://t.me/kpszsu/79220"
-        },
-        {
-          "id": 79228,
-          "publishedAt": "2026-09-20T20:35:05+00:00",
-          "text": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
-          "url": "https://t.me/kpszsu/79228"
         }
       ]
     }
