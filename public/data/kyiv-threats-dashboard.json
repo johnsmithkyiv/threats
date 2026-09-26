@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T04:28:11.652Z",
+    "generatedAt": "2026-09-26T05:25:39.793Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7031,
-    "totalObservations": 1039,
+    "totalSourcePosts": 7036,
+    "totalObservations": 1042,
     "totalEpisodes": 545,
-    "latestSourceAt": "2026-09-26T04:23:34+00:00",
+    "latestSourceAt": "2026-09-26T05:13:04+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6783,7 +6783,7 @@
       "id": "jet-drone-80247",
       "category": "jet-drone",
       "startedAt": "2026-09-26T03:18:21+00:00",
-      "endedAt": "2026-09-26T04:02:07+00:00",
+      "endedAt": "2026-09-26T05:13:04+00:00",
       "sourcePosts": [
         {
           "id": 80247,
@@ -6802,6 +6802,24 @@
           "publishedAt": "2026-09-26T04:02:07+00:00",
           "text": "🏍 Реактивний БпЛА над Київським водосховищем рухається у напрямку Києва.",
           "url": "https://t.me/kpszsu/80251"
+        },
+        {
+          "id": 80257,
+          "publishedAt": "2026-09-26T04:35:28+00:00",
+          "text": "🏍 Київщина: реактивні БпЛА повз Димер у напрямку Києва.",
+          "url": "https://t.me/kpszsu/80257"
+        },
+        {
+          "id": 80260,
+          "publishedAt": "2026-09-26T05:03:58+00:00",
+          "text": "🏍 Реактивні БпЛА повз Глеваху у напрямку Києва.",
+          "url": "https://t.me/kpszsu/80260"
+        },
+        {
+          "id": 80262,
+          "publishedAt": "2026-09-26T05:13:04+00:00",
+          "text": "🏍 Реактивний БпЛА курсом на Київ з півночі.",
+          "url": "https://t.me/kpszsu/80262"
         }
       ]
     },
