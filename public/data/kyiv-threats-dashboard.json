@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T16:27:11.177Z",
+    "generatedAt": "2026-09-26T17:25:56.021Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7061,
-    "totalObservations": 1045,
+    "totalSourcePosts": 7067,
+    "totalObservations": 1046,
     "totalEpisodes": 547,
-    "latestSourceAt": "2026-09-26T16:23:10+00:00",
+    "latestSourceAt": "2026-09-26T17:14:15+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6783,13 +6783,19 @@
       "id": "jet-drone-80402",
       "category": "jet-drone",
       "startedAt": "2026-09-26T15:33:50+00:00",
-      "endedAt": "2026-09-26T15:33:50+00:00",
+      "endedAt": "2026-09-26T16:38:38+00:00",
       "sourcePosts": [
         {
           "id": 80402,
           "publishedAt": "2026-09-26T15:33:50+00:00",
           "text": "🏍 Київщина: ще один реактивний БпЛА повз Вишгород на Київ.",
           "url": "https://t.me/kpszsu/80402"
+        },
+        {
+          "id": 80415,
+          "publishedAt": "2026-09-26T16:38:38+00:00",
+          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
+          "url": "https://t.me/kpszsu/80415"
         }
       ]
     },
