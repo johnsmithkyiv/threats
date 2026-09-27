@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-27T06:32:20.995Z",
+    "generatedAt": "2026-09-27T07:26:54.344Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7109,
-    "totalObservations": 1057,
+    "totalSourcePosts": 7115,
+    "totalObservations": 1059,
     "totalEpisodes": 549,
-    "latestSourceAt": "2026-09-27T06:28:45+00:00",
+    "latestSourceAt": "2026-09-27T07:23:13+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6797,7 +6797,7 @@
       "id": "jet-drone-80526",
       "category": "jet-drone",
       "startedAt": "2026-09-27T06:05:39+00:00",
-      "endedAt": "2026-09-27T06:28:45+00:00",
+      "endedAt": "2026-09-27T07:23:13+00:00",
       "sourcePosts": [
         {
           "id": 80526,
@@ -6816,6 +6816,18 @@
           "publishedAt": "2026-09-27T06:28:45+00:00",
           "text": "🏍 Реактивний БпЛА повз Чабани, курсом на Київ (Жуляни) .",
           "url": "https://t.me/kpszsu/80534"
+        },
+        {
+          "id": 80541,
+          "publishedAt": "2026-09-27T07:00:11+00:00",
+          "text": "🏍 Реактивний БпЛА повз Ірпінь курсом на Київ.",
+          "url": "https://t.me/kpszsu/80541"
+        },
+        {
+          "id": 80548,
+          "publishedAt": "2026-09-27T07:23:13+00:00",
+          "text": "🏍 Реактивний БпЛА через Гостомель курсом на Київ.",
+          "url": "https://t.me/kpszsu/80548"
         }
       ]
     },
