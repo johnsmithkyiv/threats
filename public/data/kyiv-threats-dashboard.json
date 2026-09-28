@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-28T13:30:29.861Z",
+    "generatedAt": "2026-09-28T14:32:05.375Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7221,
-    "totalObservations": 1083,
-    "totalEpisodes": 552,
-    "latestSourceAt": "2026-09-28T13:12:23+00:00",
+    "totalSourcePosts": 7226,
+    "totalObservations": 1084,
+    "totalEpisodes": 553,
+    "latestSourceAt": "2026-09-28T14:07:37+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4552,9 +4552,9 @@
       "label": "28 Sep 2026",
       "start": "2026-09-28",
       "end": "2026-09-28",
-      "total": 2,
+      "total": 3,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6276,9 +6276,9 @@
       "label": "Uke 40, 2026",
       "start": "2026-09-28",
       "end": "2026-10-04",
-      "total": 2,
+      "total": 3,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6810,9 +6810,9 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 99,
+      "total": 100,
       "categories": {
-        "attack-drone": 17,
+        "attack-drone": 18,
         "jet-drone": 80,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6821,6 +6821,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "attack-drone-81106",
+      "category": "attack-drone",
+      "startedAt": "2026-09-28T14:06:31+00:00",
+      "endedAt": "2026-09-28T14:06:31+00:00",
+      "sourcePosts": [
+        {
+          "id": 81106,
+          "publishedAt": "2026-09-28T14:06:31+00:00",
+          "text": "❗️ 28 вересня 2026 року (із 06.30 по 16.30) ворог продовжує атакувати Україну ударними БпЛА типу “Shahed”, більшість із них – реактивні.\n\nСтаном на 16.30 зафіксовано понад 100 ударних безпілотників різних типів, значна частина – у напрямку м.Київ.\n\nНаразі, протиповітряній обороні вдалося збити понад 40 реактивних БпЛА, але десятки дронів ще в повітрі!\n\nЗафіксовано влучання ударних БпЛА по інфраструктурі, цивільних об’єктах та житлових будинках в різних регіонах країни. \n\nЗокрема – влучання реактивних БпЛА противника по будівлі Національної академії наук та медичному центру “Добробут” у місті Київ. \n\nСили оборони продовжують відбивати повітряний напад противника!\nВисловлюємо співчуття родинам загиблих та постраждалим.",
+          "url": "https://t.me/kpszsu/81106"
+        }
+      ]
+    },
     {
       "id": "jet-drone-80886",
       "category": "jet-drone",
@@ -7650,44 +7664,6 @@
           "publishedAt": "2026-09-22T14:21:30+00:00",
           "text": "🏍 Київ - реактивний БпЛА на місто.",
           "url": "https://t.me/kpszsu/79555"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-79492",
-      "category": "jet-drone",
-      "startedAt": "2026-09-22T10:04:01+00:00",
-      "endedAt": "2026-09-22T11:08:56+00:00",
-      "sourcePosts": [
-        {
-          "id": 79492,
-          "publishedAt": "2026-09-22T10:04:01+00:00",
-          "text": "🏍 Київ - реактивний БпЛА над містом.",
-          "url": "https://t.me/kpszsu/79492"
-        },
-        {
-          "id": 79503,
-          "publishedAt": "2026-09-22T10:27:05+00:00",
-          "text": "🏍 Реактивний БпЛА курсом на Київ з півдня.",
-          "url": "https://t.me/kpszsu/79503"
-        },
-        {
-          "id": 79507,
-          "publishedAt": "2026-09-22T10:43:25+00:00",
-          "text": "🏍 Київ - реактивний БпЛА над містом.",
-          "url": "https://t.me/kpszsu/79507"
-        },
-        {
-          "id": 79511,
-          "publishedAt": "2026-09-22T11:03:23+00:00",
-          "text": "🏍 Київщина: реактивний БпЛА курсом на Київ з півдня.",
-          "url": "https://t.me/kpszsu/79511"
-        },
-        {
-          "id": 79512,
-          "publishedAt": "2026-09-22T11:08:56+00:00",
-          "text": "🏍 Київ - реактивний БпЛА над містом.",
-          "url": "https://t.me/kpszsu/79512"
         }
       ]
     }
