@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-29T02:26:21.790Z",
+    "generatedAt": "2026-09-29T03:29:41.216Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7261,
-    "totalObservations": 1089,
+    "totalSourcePosts": 7265,
+    "totalObservations": 1092,
     "totalEpisodes": 556,
-    "latestSourceAt": "2026-09-29T02:20:14+00:00",
+    "latestSourceAt": "2026-09-29T03:10:23+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6839,13 +6839,31 @@
       "id": "jet-drone-81251",
       "category": "jet-drone",
       "startedAt": "2026-09-29T01:40:42+00:00",
-      "endedAt": "2026-09-29T01:40:42+00:00",
+      "endedAt": "2026-09-29T03:04:47+00:00",
       "sourcePosts": [
         {
           "id": 81251,
           "publishedAt": "2026-09-29T01:40:42+00:00",
           "text": "🏍 Реактивний БпЛА через Коцюбинське курсом на Київ",
           "url": "https://t.me/kpszsu/81251"
+        },
+        {
+          "id": 81266,
+          "publishedAt": "2026-09-29T02:52:01+00:00",
+          "text": "🏍 Реактивний БпЛА починає рух вздовж Київського водосховища у напрямку Києва",
+          "url": "https://t.me/kpszsu/81266"
+        },
+        {
+          "id": 81268,
+          "publishedAt": "2026-09-29T02:58:23+00:00",
+          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
+          "url": "https://t.me/kpszsu/81268"
+        },
+        {
+          "id": 81272,
+          "publishedAt": "2026-09-29T03:04:47+00:00",
+          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
+          "url": "https://t.me/kpszsu/81272"
         }
       ]
     },
