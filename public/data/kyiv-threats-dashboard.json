@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-30T15:32:51.114Z",
+    "generatedAt": "2026-09-30T16:32:13.434Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7399,
-    "totalObservations": 1120,
+    "totalSourcePosts": 7403,
+    "totalObservations": 1122,
     "totalEpisodes": 566,
-    "latestSourceAt": "2026-09-30T15:14:09+00:00",
+    "latestSourceAt": "2026-09-30T16:30:12+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6853,7 +6853,7 @@
       "id": "jet-drone-81942",
       "category": "jet-drone",
       "startedAt": "2026-09-30T13:56:10+00:00",
-      "endedAt": "2026-09-30T15:04:07+00:00",
+      "endedAt": "2026-09-30T16:15:55+00:00",
       "sourcePosts": [
         {
           "id": 81942,
@@ -6866,6 +6866,18 @@
           "publishedAt": "2026-09-30T15:04:07+00:00",
           "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
           "url": "https://t.me/kpszsu/81973"
+        },
+        {
+          "id": 81980,
+          "publishedAt": "2026-09-30T15:36:29+00:00",
+          "text": "🏍 Реактивний БпЛА повз Українку курсом на Київ",
+          "url": "https://t.me/kpszsu/81980"
+        },
+        {
+          "id": 81984,
+          "publishedAt": "2026-09-30T16:15:55+00:00",
+          "text": "🏍 Реактивний БпЛА повз Коцюбинське курсом на Київ",
+          "url": "https://t.me/kpszsu/81984"
         }
       ]
     },
