@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-30T11:27:53.372Z",
+    "generatedAt": "2026-09-30T12:38:55.423Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7377,
-    "totalObservations": 1116,
+    "totalSourcePosts": 7384,
+    "totalObservations": 1118,
     "totalEpisodes": 565,
-    "latestSourceAt": "2026-09-30T11:27:19+00:00",
+    "latestSourceAt": "2026-09-30T12:37:30+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6853,13 +6853,19 @@
       "id": "attack-drone-81821",
       "category": "attack-drone",
       "startedAt": "2026-09-30T10:40:46+00:00",
-      "endedAt": "2026-09-30T10:40:46+00:00",
+      "endedAt": "2026-09-30T12:17:59+00:00",
       "sourcePosts": [
         {
           "id": 81821,
           "publishedAt": "2026-09-30T10:40:46+00:00",
           "text": "🛵 БпЛА вздовж Київського водосховища на Київ",
           "url": "https://t.me/kpszsu/81821"
+        },
+        {
+          "id": 81881,
+          "publishedAt": "2026-09-30T12:17:59+00:00",
+          "text": "🛵 БпЛА на Жуляни в Києві",
+          "url": "https://t.me/kpszsu/81881"
         }
       ]
     },
@@ -6867,7 +6873,7 @@
       "id": "jet-drone-81801",
       "category": "jet-drone",
       "startedAt": "2026-09-30T10:11:24+00:00",
-      "endedAt": "2026-09-30T11:27:19+00:00",
+      "endedAt": "2026-09-30T11:47:12+00:00",
       "sourcePosts": [
         {
           "id": 81801,
@@ -6886,6 +6892,12 @@
           "publishedAt": "2026-09-30T11:27:19+00:00",
           "text": "🏍 Реактивний БпЛА повз Українку на Київ",
           "url": "https://t.me/kpszsu/81842"
+        },
+        {
+          "id": 81859,
+          "publishedAt": "2026-09-30T11:47:12+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ повз Гостомель",
+          "url": "https://t.me/kpszsu/81859"
         }
       ]
     },
