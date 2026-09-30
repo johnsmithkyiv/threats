@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-30T01:28:37.156Z",
+    "generatedAt": "2026-09-30T02:27:34.094Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7331,
-    "totalObservations": 1107,
-    "totalEpisodes": 561,
-    "latestSourceAt": "2026-09-30T01:17:30+00:00",
+    "totalSourcePosts": 7335,
+    "totalObservations": 1108,
+    "totalEpisodes": 562,
+    "latestSourceAt": "2026-09-30T02:24:52+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4580,10 +4580,10 @@
       "label": "30 Sep 2026",
       "start": "2026-09-30",
       "end": "2026-09-30",
-      "total": 2,
+      "total": 3,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 1,
+        "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6304,10 +6304,10 @@
       "label": "Uke 40, 2026",
       "start": "2026-09-28",
       "end": "2026-10-04",
-      "total": 11,
+      "total": 12,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 8,
+        "jet-drone": 9,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 2
@@ -6838,10 +6838,10 @@
       "label": "September 2026",
       "start": "2026-09-01",
       "end": "2026-09-30",
-      "total": 108,
+      "total": 109,
       "categories": {
         "attack-drone": 18,
-        "jet-drone": 86,
+        "jet-drone": 87,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 4
@@ -6849,6 +6849,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-81618",
+      "category": "jet-drone",
+      "startedAt": "2026-09-30T02:12:41+00:00",
+      "endedAt": "2026-09-30T02:12:41+00:00",
+      "sourcePosts": [
+        {
+          "id": 81618,
+          "publishedAt": "2026-09-30T02:12:41+00:00",
+          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
+          "url": "https://t.me/kpszsu/81618"
+        }
+      ]
+    },
     {
       "id": "ballistic-missile-81584",
       "category": "ballistic-missile",
@@ -7636,20 +7650,6 @@
           "publishedAt": "2026-09-24T00:24:45+00:00",
           "text": "🛵 Декілька груп ударних БпЛА над Київським водосховищем рухається у напрямку Києва",
           "url": "https://t.me/kpszsu/79819"
-        }
-      ]
-    },
-    {
-      "id": "attack-drone-79781",
-      "category": "attack-drone",
-      "startedAt": "2026-09-23T22:05:56+00:00",
-      "endedAt": "2026-09-23T22:05:56+00:00",
-      "sourcePosts": [
-        {
-          "id": 79781,
-          "publishedAt": "2026-09-23T22:05:56+00:00",
-          "text": "🛵 Групи ударних БпЛА з Чернігівщини на Київщину курсом на Київ..",
-          "url": "https://t.me/kpszsu/79781"
         }
       ]
     }
