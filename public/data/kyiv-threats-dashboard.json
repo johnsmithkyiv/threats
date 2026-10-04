@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-04T02:38:44.441Z",
+    "generatedAt": "2026-10-04T05:18:40.758Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7535,
-    "totalObservations": 1144,
+    "totalSourcePosts": 7540,
+    "totalObservations": 1145,
     "totalEpisodes": 575,
-    "latestSourceAt": "2026-10-04T02:37:58+00:00",
+    "latestSourceAt": "2026-10-04T04:45:50+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6937,7 +6937,7 @@
       "id": "attack-drone-82656",
       "category": "attack-drone",
       "startedAt": "2026-10-04T01:49:01+00:00",
-      "endedAt": "2026-10-04T01:55:45+00:00",
+      "endedAt": "2026-10-04T02:45:01+00:00",
       "sourcePosts": [
         {
           "id": 82656,
@@ -6962,6 +6962,12 @@
           "publishedAt": "2026-10-04T01:55:45+00:00",
           "text": "🛵 Київ: БпЛА на Троєщину",
           "url": "https://t.me/kpszsu/82659"
+        },
+        {
+          "id": 82666,
+          "publishedAt": "2026-10-04T02:45:01+00:00",
+          "text": "🛵 Київ: БпЛА на Оболонь",
+          "url": "https://t.me/kpszsu/82666"
         }
       ]
     },
