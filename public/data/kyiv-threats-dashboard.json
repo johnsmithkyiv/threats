@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-05T18:28:05.406Z",
+    "generatedAt": "2026-10-06T00:49:23.483Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7615,
-    "totalObservations": 1153,
-    "totalEpisodes": 579,
-    "latestSourceAt": "2026-10-05T18:08:08+00:00",
+    "totalSourcePosts": 7626,
+    "totalObservations": 1157,
+    "totalEpisodes": 580,
+    "latestSourceAt": "2026-10-05T22:14:51+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4650,10 +4650,10 @@
       "label": "5 Oct 2026",
       "start": "2026-10-05",
       "end": "2026-10-05",
-      "total": 2,
+      "total": 3,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 2,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6388,10 +6388,10 @@
       "label": "Uke 41, 2026",
       "start": "2026-10-05",
       "end": "2026-10-11",
-      "total": 2,
+      "total": 3,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 2,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6936,10 +6936,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 13,
+      "total": 14,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 12,
+        "jet-drone": 13,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6947,6 +6947,38 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-83137",
+      "category": "jet-drone",
+      "startedAt": "2026-10-05T20:22:58+00:00",
+      "endedAt": "2026-10-05T22:14:51+00:00",
+      "sourcePosts": [
+        {
+          "id": 83137,
+          "publishedAt": "2026-10-05T20:22:58+00:00",
+          "text": "🏍 Київ: реактивний БпЛА в напрямку міста з півдня",
+          "url": "https://t.me/kpszsu/83137"
+        },
+        {
+          "id": 83150,
+          "publishedAt": "2026-10-05T22:10:25+00:00",
+          "text": "🏍 Київ: реактивний БпЛА в напрямку міста",
+          "url": "https://t.me/kpszsu/83150"
+        },
+        {
+          "id": 83151,
+          "publishedAt": "2026-10-05T22:11:06+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Жуляни",
+          "url": "https://t.me/kpszsu/83151"
+        },
+        {
+          "id": 83152,
+          "publishedAt": "2026-10-05T22:14:51+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Видубичи",
+          "url": "https://t.me/kpszsu/83152"
+        }
+      ]
+    },
     {
       "id": "jet-drone-83104",
       "category": "jet-drone",
@@ -7662,74 +7694,6 @@
           "publishedAt": "2026-09-28T04:23:04+00:00",
           "text": "🏍 Реактивний БпЛА через Вишневе у напрямку Києва.",
           "url": "https://t.me/kpszsu/80860"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-80668",
-      "category": "jet-drone",
-      "startedAt": "2026-09-27T14:05:36+00:00",
-      "endedAt": "2026-09-27T21:04:03+00:00",
-      "sourcePosts": [
-        {
-          "id": 80668,
-          "publishedAt": "2026-09-27T14:05:36+00:00",
-          "text": "🏍 Реактивний БпЛА на заході від Миколаєва, курс на Одещину.\n🏍 Реактивний БпЛА на Київ з півдня.",
-          "url": "https://t.me/kpszsu/80668"
-        },
-        {
-          "id": 80691,
-          "publishedAt": "2026-09-27T14:39:38+00:00",
-          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
-          "url": "https://t.me/kpszsu/80691"
-        },
-        {
-          "id": 80704,
-          "publishedAt": "2026-09-27T15:23:05+00:00",
-          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Троєщина).",
-          "url": "https://t.me/kpszsu/80704"
-        },
-        {
-          "id": 80716,
-          "publishedAt": "2026-09-27T15:54:57+00:00",
-          "text": "🏍 Реактивний БпЛА через Гостомель курсом на Київ (Оболонь).",
-          "url": "https://t.me/kpszsu/80716"
-        },
-        {
-          "id": 80733,
-          "publishedAt": "2026-09-27T16:48:06+00:00",
-          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
-          "url": "https://t.me/kpszsu/80733"
-        },
-        {
-          "id": 80744,
-          "publishedAt": "2026-09-27T17:10:55+00:00",
-          "text": "🏍 Київщина: реактивний БпЛА повз Димер у напрямку Києва.",
-          "url": "https://t.me/kpszsu/80744"
-        },
-        {
-          "id": 80746,
-          "publishedAt": "2026-09-27T17:14:43+00:00",
-          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
-          "url": "https://t.me/kpszsu/80746"
-        },
-        {
-          "id": 80756,
-          "publishedAt": "2026-09-27T17:40:43+00:00",
-          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
-          "url": "https://t.me/kpszsu/80756"
-        },
-        {
-          "id": 80768,
-          "publishedAt": "2026-09-27T19:04:22+00:00",
-          "text": "🏍 Реактивний БпЛА повз Вишгород на Київ (Оболонь).",
-          "url": "https://t.me/kpszsu/80768"
-        },
-        {
-          "id": 80795,
-          "publishedAt": "2026-09-27T21:04:03+00:00",
-          "text": "🏍 Реактивний БпЛА повз Гостомель курсом на Київ.",
-          "url": "https://t.me/kpszsu/80795"
         }
       ]
     }
