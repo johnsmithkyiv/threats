@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-07T00:42:36.109Z",
+    "generatedAt": "2026-10-07T07:14:43.531Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7656,
-    "totalObservations": 1162,
+    "totalSourcePosts": 7675,
+    "totalObservations": 1163,
     "totalEpisodes": 582,
-    "latestSourceAt": "2026-10-07T00:21:32+00:00",
+    "latestSourceAt": "2026-10-07T06:58:51+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -6979,7 +6979,7 @@
       "id": "ballistic-missile-83383",
       "category": "ballistic-missile",
       "startedAt": "2026-10-07T00:12:51+00:00",
-      "endedAt": "2026-10-07T00:21:32+00:00",
+      "endedAt": "2026-10-07T02:11:03+00:00",
       "sourcePosts": [
         {
           "id": 83383,
@@ -6998,6 +6998,12 @@
           "publishedAt": "2026-10-07T00:21:32+00:00",
           "text": "🚀Балістичні ракети на Київ із півночі.",
           "url": "https://t.me/kpszsu/83391"
+        },
+        {
+          "id": 83425,
+          "publishedAt": "2026-10-07T02:11:03+00:00",
+          "text": "🚀Балістична ракета на Київ.",
+          "url": "https://t.me/kpszsu/83425"
         }
       ]
     },
