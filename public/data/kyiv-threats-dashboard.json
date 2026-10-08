@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-08T01:00:44.813Z",
+    "generatedAt": "2026-10-08T07:24:59.086Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7755,
-    "totalObservations": 1204,
-    "totalEpisodes": 584,
-    "latestSourceAt": "2026-10-08T01:00:09+00:00",
+    "totalSourcePosts": 7780,
+    "totalObservations": 1213,
+    "totalEpisodes": 585,
+    "latestSourceAt": "2026-10-08T06:55:15+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4692,10 +4692,10 @@
       "label": "8 Oct 2026",
       "start": "2026-10-08",
       "end": "2026-10-08",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 1,
+        "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6430,10 +6430,10 @@
       "label": "Uke 41, 2026",
       "start": "2026-10-05",
       "end": "2026-10-11",
-      "total": 7,
+      "total": 8,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 6,
+        "jet-drone": 7,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6978,10 +6978,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 18,
+      "total": 19,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 16,
+        "jet-drone": 17,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6989,6 +6989,68 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-83829",
+      "category": "jet-drone",
+      "startedAt": "2026-10-08T04:40:54+00:00",
+      "endedAt": "2026-10-08T06:18:11+00:00",
+      "sourcePosts": [
+        {
+          "id": 83829,
+          "publishedAt": "2026-10-08T04:40:54+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Бортничі",
+          "url": "https://t.me/kpszsu/83829"
+        },
+        {
+          "id": 83830,
+          "publishedAt": "2026-10-08T04:49:26+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Феофанію",
+          "url": "https://t.me/kpszsu/83830"
+        },
+        {
+          "id": 83833,
+          "publishedAt": "2026-10-08T04:57:19+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Святошин",
+          "url": "https://t.me/kpszsu/83833"
+        },
+        {
+          "id": 83834,
+          "publishedAt": "2026-10-08T04:58:15+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Борщагівку",
+          "url": "https://t.me/kpszsu/83834"
+        },
+        {
+          "id": 83835,
+          "publishedAt": "2026-10-08T04:59:16+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Гатне",
+          "url": "https://t.me/kpszsu/83835"
+        },
+        {
+          "id": 83839,
+          "publishedAt": "2026-10-08T05:11:22+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Вишневе",
+          "url": "https://t.me/kpszsu/83839"
+        },
+        {
+          "id": 83849,
+          "publishedAt": "2026-10-08T06:15:49+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Жуляни",
+          "url": "https://t.me/kpszsu/83849"
+        },
+        {
+          "id": 83850,
+          "publishedAt": "2026-10-08T06:17:33+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Борщагівку",
+          "url": "https://t.me/kpszsu/83850"
+        },
+        {
+          "id": 83851,
+          "publishedAt": "2026-10-08T06:18:11+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Видубичі",
+          "url": "https://t.me/kpszsu/83851"
+        }
+      ]
+    },
     {
       "id": "jet-drone-83791",
       "category": "jet-drone",
@@ -7914,26 +7976,6 @@
           "publishedAt": "2026-09-29T04:24:41+00:00",
           "text": "🏍 Реактивний БпЛА вздовж Київського водосховища у напрямку Києва",
           "url": "https://t.me/kpszsu/81287"
-        }
-      ]
-    },
-    {
-      "id": "ballistic-missile-81217",
-      "category": "ballistic-missile",
-      "startedAt": "2026-09-28T22:21:18+00:00",
-      "endedAt": "2026-09-28T22:23:26+00:00",
-      "sourcePosts": [
-        {
-          "id": 81217,
-          "publishedAt": "2026-09-28T22:21:18+00:00",
-          "text": "Балістичні ракети на Київ",
-          "url": "https://t.me/kpszsu/81217"
-        },
-        {
-          "id": 81218,
-          "publishedAt": "2026-09-28T22:23:26+00:00",
-          "text": "Ще балістичні ракети на Київ",
-          "url": "https://t.me/kpszsu/81218"
         }
       ]
     }
