@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-10T00:50:59.428Z",
+    "generatedAt": "2026-10-10T07:07:20.497Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 7929,
-    "totalObservations": 1241,
+    "totalSourcePosts": 7950,
+    "totalObservations": 1246,
     "totalEpisodes": 592,
-    "latestSourceAt": "2026-10-10T00:49:47+00:00",
+    "latestSourceAt": "2026-10-10T07:01:03+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7021,7 +7021,7 @@
       "id": "jet-drone-84542",
       "category": "jet-drone",
       "startedAt": "2026-10-10T00:04:41+00:00",
-      "endedAt": "2026-10-10T00:49:47+00:00",
+      "endedAt": "2026-10-10T05:26:36+00:00",
       "sourcePosts": [
         {
           "id": 84542,
@@ -7034,6 +7034,36 @@
           "publishedAt": "2026-10-10T00:49:47+00:00",
           "text": "🏍 Реактивний БпЛА на Київ з півночі.",
           "url": "https://t.me/kpszsu/84562"
+        },
+        {
+          "id": 84620,
+          "publishedAt": "2026-10-10T02:43:17+00:00",
+          "text": "🏍 Реактивний БпЛА курсом на Київ з півдня",
+          "url": "https://t.me/kpszsu/84620"
+        },
+        {
+          "id": 84637,
+          "publishedAt": "2026-10-10T02:59:34+00:00",
+          "text": "🏍 Реактивний БпЛА на сході Київщини, курс на Київ.",
+          "url": "https://t.me/kpszsu/84637"
+        },
+        {
+          "id": 84649,
+          "publishedAt": "2026-10-10T03:20:22+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з південного напрямку.",
+          "url": "https://t.me/kpszsu/84649"
+        },
+        {
+          "id": 84682,
+          "publishedAt": "2026-10-10T04:43:13+00:00",
+          "text": "🏍 Реактивний БпЛА по Київському водосховищі, курс на Київ!",
+          "url": "https://t.me/kpszsu/84682"
+        },
+        {
+          "id": 84694,
+          "publishedAt": "2026-10-10T05:26:36+00:00",
+          "text": "🏍 Реактивний БпЛА курсом на Київ з півночі.",
+          "url": "https://t.me/kpszsu/84694"
         }
       ]
     },
