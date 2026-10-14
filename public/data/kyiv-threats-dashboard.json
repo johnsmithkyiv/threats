@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-14T15:09:27.665Z",
+    "generatedAt": "2026-10-14T19:23:34.490Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8241,
-    "totalObservations": 1311,
-    "totalEpisodes": 614,
-    "latestSourceAt": "2026-10-14T14:53:48+00:00",
+    "totalSourcePosts": 8254,
+    "totalObservations": 1313,
+    "totalEpisodes": 615,
+    "latestSourceAt": "2026-10-14T19:04:06+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4776,10 +4776,10 @@
       "label": "14 Oct 2026",
       "start": "2026-10-14",
       "end": "2026-10-14",
-      "total": 3,
+      "total": 4,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 1,
+        "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6528,10 +6528,10 @@
       "label": "Uke 42, 2026",
       "start": "2026-10-12",
       "end": "2026-10-18",
-      "total": 13,
+      "total": 14,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 9,
+        "jet-drone": 10,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 3
@@ -7076,10 +7076,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 48,
+      "total": 49,
       "categories": {
         "attack-drone": 3,
-        "jet-drone": 41,
+        "jet-drone": 42,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 4
@@ -7087,6 +7087,26 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-86607",
+      "category": "jet-drone",
+      "startedAt": "2026-10-14T18:29:10+00:00",
+      "endedAt": "2026-10-14T18:49:10+00:00",
+      "sourcePosts": [
+        {
+          "id": 86607,
+          "publishedAt": "2026-10-14T18:29:10+00:00",
+          "text": "🏍 Реактивні БпЛА на сході Київщини, курс на Київ.",
+          "url": "https://t.me/kpszsu/86607"
+        },
+        {
+          "id": 86612,
+          "publishedAt": "2026-10-14T18:49:10+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/86612"
+        }
+      ]
+    },
     {
       "id": "attack-drone-86348",
       "category": "attack-drone",
@@ -7880,92 +7900,6 @@
           "publishedAt": "2026-10-08T15:08:26+00:00",
           "text": "🏍 Ще один реактивний БпЛА курсом на Київ з півночі.",
           "url": "https://t.me/kpszsu/83987"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-83829",
-      "category": "jet-drone",
-      "startedAt": "2026-10-08T04:40:54+00:00",
-      "endedAt": "2026-10-08T10:07:27+00:00",
-      "sourcePosts": [
-        {
-          "id": 83829,
-          "publishedAt": "2026-10-08T04:40:54+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Бортничі",
-          "url": "https://t.me/kpszsu/83829"
-        },
-        {
-          "id": 83830,
-          "publishedAt": "2026-10-08T04:49:26+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Феофанію",
-          "url": "https://t.me/kpszsu/83830"
-        },
-        {
-          "id": 83833,
-          "publishedAt": "2026-10-08T04:57:19+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Святошин",
-          "url": "https://t.me/kpszsu/83833"
-        },
-        {
-          "id": 83834,
-          "publishedAt": "2026-10-08T04:58:15+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Борщагівку",
-          "url": "https://t.me/kpszsu/83834"
-        },
-        {
-          "id": 83835,
-          "publishedAt": "2026-10-08T04:59:16+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Гатне",
-          "url": "https://t.me/kpszsu/83835"
-        },
-        {
-          "id": 83839,
-          "publishedAt": "2026-10-08T05:11:22+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Вишневе",
-          "url": "https://t.me/kpszsu/83839"
-        },
-        {
-          "id": 83849,
-          "publishedAt": "2026-10-08T06:15:49+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Жуляни",
-          "url": "https://t.me/kpszsu/83849"
-        },
-        {
-          "id": 83850,
-          "publishedAt": "2026-10-08T06:17:33+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Борщагівку",
-          "url": "https://t.me/kpszsu/83850"
-        },
-        {
-          "id": 83851,
-          "publishedAt": "2026-10-08T06:18:11+00:00",
-          "text": "🏍 Київ: реактивний БпЛА на Видубичі",
-          "url": "https://t.me/kpszsu/83851"
-        },
-        {
-          "id": 83874,
-          "publishedAt": "2026-10-08T08:04:41+00:00",
-          "text": "🏍 Реактивний БпЛА курсом на Київ зі сходу.",
-          "url": "https://t.me/kpszsu/83874"
-        },
-        {
-          "id": 83879,
-          "publishedAt": "2026-10-08T08:17:13+00:00",
-          "text": "🏍 Ще один реактивний БпЛА курсом на Київ зі сходу.",
-          "url": "https://t.me/kpszsu/83879"
-        },
-        {
-          "id": 83894,
-          "publishedAt": "2026-10-08T09:19:32+00:00",
-          "text": "🏍 Реактивний БпЛА через Ірпінь курсом на Київ!",
-          "url": "https://t.me/kpszsu/83894"
-        },
-        {
-          "id": 83908,
-          "publishedAt": "2026-10-08T10:07:27+00:00",
-          "text": "🏍 Київ: реактивний БпЛА, курсом на Нивки",
-          "url": "https://t.me/kpszsu/83908"
         }
       ]
     }
