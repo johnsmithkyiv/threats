@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-15T07:26:55.958Z",
+    "generatedAt": "2026-10-15T13:26:14.824Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8284,
-    "totalObservations": 1321,
+    "totalSourcePosts": 8297,
+    "totalObservations": 1322,
     "totalEpisodes": 618,
-    "latestSourceAt": "2026-10-15T07:24:05+00:00",
+    "latestSourceAt": "2026-10-15T13:14:17+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7105,7 +7105,7 @@
       "id": "jet-drone-86840",
       "category": "jet-drone",
       "startedAt": "2026-10-15T05:56:57+00:00",
-      "endedAt": "2026-10-15T06:58:15+00:00",
+      "endedAt": "2026-10-15T08:19:42+00:00",
       "sourcePosts": [
         {
           "id": 86840,
@@ -7130,6 +7130,12 @@
           "publishedAt": "2026-10-15T06:58:15+00:00",
           "text": "🏍 Київ: реактивний БпЛА на Видубичі",
           "url": "https://t.me/kpszsu/86855"
+        },
+        {
+          "id": 86872,
+          "publishedAt": "2026-10-15T08:19:42+00:00",
+          "text": "🏍 Реактивний БпЛА повз Козин на Київ",
+          "url": "https://t.me/kpszsu/86872"
         }
       ]
     },
