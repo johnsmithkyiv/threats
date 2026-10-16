@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-16T12:24:59.387Z",
+    "generatedAt": "2026-10-16T17:23:55.462Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8397,
-    "totalObservations": 1363,
-    "totalEpisodes": 623,
-    "latestSourceAt": "2026-10-16T11:49:00+00:00",
+    "totalSourcePosts": 8404,
+    "totalObservations": 1364,
+    "totalEpisodes": 624,
+    "latestSourceAt": "2026-10-16T17:02:09+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4804,10 +4804,10 @@
       "label": "16 Oct 2026",
       "start": "2026-10-16",
       "end": "2026-10-16",
-      "total": 2,
+      "total": 3,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 2,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6556,10 +6556,10 @@
       "label": "Uke 42, 2026",
       "start": "2026-10-12",
       "end": "2026-10-18",
-      "total": 22,
+      "total": 23,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 17,
+        "jet-drone": 18,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 4
@@ -7104,10 +7104,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 57,
+      "total": 58,
       "categories": {
         "attack-drone": 3,
-        "jet-drone": 49,
+        "jet-drone": 50,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 5
@@ -7115,6 +7115,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-87394",
+      "category": "jet-drone",
+      "startedAt": "2026-10-16T14:38:36+00:00",
+      "endedAt": "2026-10-16T14:38:36+00:00",
+      "sourcePosts": [
+        {
+          "id": 87394,
+          "publishedAt": "2026-10-16T14:38:36+00:00",
+          "text": "🛵 Реактивний БпЛА через Вишгород на Київ південним курсом",
+          "url": "https://t.me/kpszsu/87394"
+        }
+      ]
+    },
     {
       "id": "jet-drone-87218",
       "category": "jet-drone",
@@ -7998,56 +8012,6 @@
           "publishedAt": "2026-10-10T19:25:45+00:00",
           "text": "🏍 Київщина: реактивний БпЛА повз Бориспіль курсом на Київ.",
           "url": "https://t.me/kpszsu/84992"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-84857",
-      "category": "jet-drone",
-      "startedAt": "2026-10-10T13:47:32+00:00",
-      "endedAt": "2026-10-10T16:28:11+00:00",
-      "sourcePosts": [
-        {
-          "id": 84857,
-          "publishedAt": "2026-10-10T13:47:32+00:00",
-          "text": "🏍 Реактивний БпЛА  на Київ",
-          "url": "https://t.me/kpszsu/84857"
-        },
-        {
-          "id": 84861,
-          "publishedAt": "2026-10-10T13:53:50+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з південного сходу",
-          "url": "https://t.me/kpszsu/84861"
-        },
-        {
-          "id": 84889,
-          "publishedAt": "2026-10-10T14:44:15+00:00",
-          "text": "🏍 Реактивний БпЛА  вздовж Київського водосховища у напрямку Києва",
-          "url": "https://t.me/kpszsu/84889"
-        },
-        {
-          "id": 84894,
-          "publishedAt": "2026-10-10T14:50:00+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ",
-          "url": "https://t.me/kpszsu/84894"
-        },
-        {
-          "id": 84933,
-          "publishedAt": "2026-10-10T15:43:28+00:00",
-          "text": "🏍 Реактивний БпЛА повз Козин на Київ",
-          "url": "https://t.me/kpszsu/84933"
-        },
-        {
-          "id": 84946,
-          "publishedAt": "2026-10-10T16:15:56+00:00",
-          "text": "🏍 Реактивний БпЛА у напрямку Києва",
-          "url": "https://t.me/kpszsu/84946"
-        },
-        {
-          "id": 84952,
-          "publishedAt": "2026-10-10T16:28:11+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з південного сходу",
-          "url": "https://t.me/kpszsu/84952"
         }
       ]
     }
