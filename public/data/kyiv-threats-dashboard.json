@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-18T14:34:27.371Z",
+    "generatedAt": "2026-10-18T18:05:35.747Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8471,
-    "totalObservations": 1374,
-    "totalEpisodes": 629,
-    "latestSourceAt": "2026-10-18T14:32:48+00:00",
+    "totalSourcePosts": 8475,
+    "totalObservations": 1375,
+    "totalEpisodes": 630,
+    "latestSourceAt": "2026-10-18T16:53:43+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4832,10 +4832,10 @@
       "label": "18 Oct 2026",
       "start": "2026-10-18",
       "end": "2026-10-18",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 0,
+        "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6584,10 +6584,10 @@
       "label": "Uke 42, 2026",
       "start": "2026-10-12",
       "end": "2026-10-18",
-      "total": 28,
+      "total": 29,
       "categories": {
         "attack-drone": 5,
-        "jet-drone": 19,
+        "jet-drone": 20,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 4
@@ -7132,10 +7132,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 63,
+      "total": 64,
       "categories": {
         "attack-drone": 7,
-        "jet-drone": 51,
+        "jet-drone": 52,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 5
@@ -7143,6 +7143,20 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-88013",
+      "category": "jet-drone",
+      "startedAt": "2026-10-18T15:23:39+00:00",
+      "endedAt": "2026-10-18T15:23:39+00:00",
+      "sourcePosts": [
+        {
+          "id": 88013,
+          "publishedAt": "2026-10-18T15:23:39+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Сирець.",
+          "url": "https://t.me/kpszsu/88013"
+        }
+      ]
+    },
     {
       "id": "attack-drone-87897",
       "category": "attack-drone",
@@ -7948,20 +7962,6 @@
           "publishedAt": "2026-10-11T19:10:42+00:00",
           "text": "🏍 Київ: реактивний БпЛА на Шулявку",
           "url": "https://t.me/kpszsu/85318"
-        }
-      ]
-    },
-    {
-      "id": "attack-drone-85316",
-      "category": "attack-drone",
-      "startedAt": "2026-10-11T19:09:42+00:00",
-      "endedAt": "2026-10-11T19:09:42+00:00",
-      "sourcePosts": [
-        {
-          "id": 85316,
-          "publishedAt": "2026-10-11T19:09:42+00:00",
-          "text": "🏍 Київ: БпЛА в напрямку міста",
-          "url": "https://t.me/kpszsu/85316"
         }
       ]
     }
