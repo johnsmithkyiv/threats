@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-20T15:06:00.684Z",
+    "generatedAt": "2026-10-20T19:17:03.706Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8592,
-    "totalObservations": 1391,
+    "totalSourcePosts": 8602,
+    "totalObservations": 1394,
     "totalEpisodes": 638,
-    "latestSourceAt": "2026-10-20T14:22:04+00:00",
+    "latestSourceAt": "2026-10-20T18:44:59+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7189,7 +7189,7 @@
       "id": "jet-drone-88866",
       "category": "jet-drone",
       "startedAt": "2026-10-20T13:57:18+00:00",
-      "endedAt": "2026-10-20T14:22:04+00:00",
+      "endedAt": "2026-10-20T17:40:26+00:00",
       "sourcePosts": [
         {
           "id": 88866,
@@ -7202,6 +7202,24 @@
           "publishedAt": "2026-10-20T14:22:04+00:00",
           "text": "🏍 Реактивний БпЛА повз Димер, курсом на Київ.",
           "url": "https://t.me/kpszsu/88873"
+        },
+        {
+          "id": 88890,
+          "publishedAt": "2026-10-20T15:53:59+00:00",
+          "text": "🏍 Реактивний БпЛА через Бориспіль курсом на Київ.",
+          "url": "https://t.me/kpszsu/88890"
+        },
+        {
+          "id": 88907,
+          "publishedAt": "2026-10-20T17:17:05+00:00",
+          "text": "🏍 Реактивні БпЛА через Бориспіль та Вишневе курсом на Київ.",
+          "url": "https://t.me/kpszsu/88907"
+        },
+        {
+          "id": 88915,
+          "publishedAt": "2026-10-20T17:40:26+00:00",
+          "text": "🏍 Ще один реактивний БпЛА повз Бровари курсом на Київ.",
+          "url": "https://t.me/kpszsu/88915"
         }
       ]
     },
