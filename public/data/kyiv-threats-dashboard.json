@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-21T18:39:19.032Z",
+    "generatedAt": "2026-10-21T22:21:33.682Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8662,
-    "totalObservations": 1407,
-    "totalEpisodes": 641,
-    "latestSourceAt": "2026-10-21T18:24:12+00:00",
+    "totalSourcePosts": 8674,
+    "totalObservations": 1408,
+    "totalEpisodes": 642,
+    "latestSourceAt": "2026-10-21T22:00:33+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4874,13 +4874,13 @@
       "label": "21 Oct 2026",
       "start": "2026-10-21",
       "end": "2026-10-21",
-      "total": 2,
+      "total": 3,
       "categories": {
         "attack-drone": 0,
         "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 0
+        "ballistic-missile": 1
       }
     }
   ],
@@ -6640,13 +6640,13 @@
       "label": "Uke 43, 2026",
       "start": "2026-10-19",
       "end": "2026-10-25",
-      "total": 11,
+      "total": 12,
       "categories": {
         "attack-drone": 0,
         "jet-drone": 9,
         "banderol": 0,
         "cruise-missile": 1,
-        "ballistic-missile": 1
+        "ballistic-missile": 2
       }
     }
   ],
@@ -7188,17 +7188,31 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 75,
+      "total": 76,
       "categories": {
         "attack-drone": 7,
         "jet-drone": 61,
         "banderol": 0,
         "cruise-missile": 1,
-        "ballistic-missile": 6
+        "ballistic-missile": 7
       }
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "ballistic-missile-89245",
+      "category": "ballistic-missile",
+      "startedAt": "2026-10-21T20:53:03+00:00",
+      "endedAt": "2026-10-21T20:53:03+00:00",
+      "sourcePosts": [
+        {
+          "id": 89245,
+          "publishedAt": "2026-10-21T20:53:03+00:00",
+          "text": "🚀Балістичні ракети курсом на Київ.",
+          "url": "https://t.me/kpszsu/89245"
+        }
+      ]
+    },
     {
       "id": "jet-drone-89208",
       "category": "jet-drone",
@@ -8028,62 +8042,6 @@
           "publishedAt": "2026-10-14T02:18:56+00:00",
           "text": "🏍 Київ: реактивний БпЛА в напрямку міста з півдня",
           "url": "https://t.me/kpszsu/86308"
-        }
-      ]
-    },
-    {
-      "id": "ballistic-missile-86286",
-      "category": "ballistic-missile",
-      "startedAt": "2026-10-14T01:39:07+00:00",
-      "endedAt": "2026-10-14T03:59:13+00:00",
-      "sourcePosts": [
-        {
-          "id": 86286,
-          "publishedAt": "2026-10-14T01:39:07+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86286"
-        },
-        {
-          "id": 86289,
-          "publishedAt": "2026-10-14T01:47:09+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86289"
-        },
-        {
-          "id": 86297,
-          "publishedAt": "2026-10-14T01:57:59+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86297"
-        },
-        {
-          "id": 86302,
-          "publishedAt": "2026-10-14T02:04:19+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86302"
-        },
-        {
-          "id": 86314,
-          "publishedAt": "2026-10-14T02:29:07+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86314"
-        },
-        {
-          "id": 86326,
-          "publishedAt": "2026-10-14T02:57:32+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86326"
-        },
-        {
-          "id": 86338,
-          "publishedAt": "2026-10-14T03:42:33+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86338"
-        },
-        {
-          "id": 86345,
-          "publishedAt": "2026-10-14T03:59:13+00:00",
-          "text": "🚀Балістика на Київ",
-          "url": "https://t.me/kpszsu/86345"
         }
       ]
     }
