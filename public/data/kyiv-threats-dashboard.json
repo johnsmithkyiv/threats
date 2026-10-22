@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-21T22:21:33.682Z",
+    "generatedAt": "2026-10-22T01:32:09.189Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8674,
-    "totalObservations": 1408,
-    "totalEpisodes": 642,
-    "latestSourceAt": "2026-10-21T22:00:33+00:00",
+    "totalSourcePosts": 8683,
+    "totalObservations": 1412,
+    "totalEpisodes": 643,
+    "latestSourceAt": "2026-10-22T01:07:30+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4882,6 +4882,20 @@
         "cruise-missile": 0,
         "ballistic-missile": 1
       }
+    },
+    {
+      "id": "2026-10-22",
+      "label": "22 Oct 2026",
+      "start": "2026-10-22",
+      "end": "2026-10-22",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
     }
   ],
   "weekly": [
@@ -6640,13 +6654,13 @@
       "label": "Uke 43, 2026",
       "start": "2026-10-19",
       "end": "2026-10-25",
-      "total": 12,
+      "total": 13,
       "categories": {
         "attack-drone": 0,
         "jet-drone": 9,
         "banderol": 0,
         "cruise-missile": 1,
-        "ballistic-missile": 2
+        "ballistic-missile": 3
       }
     }
   ],
@@ -7188,17 +7202,49 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 76,
+      "total": 77,
       "categories": {
         "attack-drone": 7,
         "jet-drone": 61,
         "banderol": 0,
         "cruise-missile": 1,
-        "ballistic-missile": 7
+        "ballistic-missile": 8
       }
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "ballistic-missile-89297",
+      "category": "ballistic-missile",
+      "startedAt": "2026-10-21T23:58:14+00:00",
+      "endedAt": "2026-10-22T00:31:35+00:00",
+      "sourcePosts": [
+        {
+          "id": 89297,
+          "publishedAt": "2026-10-21T23:58:14+00:00",
+          "text": "🚀Балістичні ракети курсом на Київ з півночі",
+          "url": "https://t.me/kpszsu/89297"
+        },
+        {
+          "id": 89298,
+          "publishedAt": "2026-10-22T00:00:26+00:00",
+          "text": "🚀Ще балістичні ракети курсом на Київ",
+          "url": "https://t.me/kpszsu/89298"
+        },
+        {
+          "id": 89301,
+          "publishedAt": "2026-10-22T00:06:49+00:00",
+          "text": "🚀Ще балістичні ракети на Київ. Перебувайте в укриттях!",
+          "url": "https://t.me/kpszsu/89301"
+        },
+        {
+          "id": 89305,
+          "publishedAt": "2026-10-22T00:31:35+00:00",
+          "text": "🚀Балістичні ракети на Київ",
+          "url": "https://t.me/kpszsu/89305"
+        }
+      ]
+    },
     {
       "id": "ballistic-missile-89245",
       "category": "ballistic-missile",
@@ -8028,20 +8074,6 @@
           "publishedAt": "2026-10-14T04:39:24+00:00",
           "text": "🏍 Київ: БпЛА на Жуляни",
           "url": "https://t.me/kpszsu/86350"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-86308",
-      "category": "jet-drone",
-      "startedAt": "2026-10-14T02:18:56+00:00",
-      "endedAt": "2026-10-14T02:18:56+00:00",
-      "sourcePosts": [
-        {
-          "id": 86308,
-          "publishedAt": "2026-10-14T02:18:56+00:00",
-          "text": "🏍 Київ: реактивний БпЛА в напрямку міста з півдня",
-          "url": "https://t.me/kpszsu/86308"
         }
       ]
     }
