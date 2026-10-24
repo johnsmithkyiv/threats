@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-24T18:08:59.295Z",
+    "generatedAt": "2026-10-24T20:49:25.479Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8822,
-    "totalObservations": 1445,
+    "totalSourcePosts": 8833,
+    "totalObservations": 1448,
     "totalEpisodes": 656,
-    "latestSourceAt": "2026-10-24T18:01:30+00:00",
+    "latestSourceAt": "2026-10-24T20:45:44+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7245,7 +7245,7 @@
       "id": "jet-drone-90154",
       "category": "jet-drone",
       "startedAt": "2026-10-24T16:22:04+00:00",
-      "endedAt": "2026-10-24T17:16:28+00:00",
+      "endedAt": "2026-10-24T19:13:13+00:00",
       "sourcePosts": [
         {
           "id": 90154,
@@ -7258,6 +7258,24 @@
           "publishedAt": "2026-10-24T17:16:28+00:00",
           "text": "🏍 Реактивний БпЛА повз Київське водосховище курсом на Київ",
           "url": "https://t.me/kpszsu/90170"
+        },
+        {
+          "id": 90215,
+          "publishedAt": "2026-10-24T19:08:58+00:00",
+          "text": "🏍 Київ: реактивний БПЛА над містом",
+          "url": "https://t.me/kpszsu/90215"
+        },
+        {
+          "id": 90216,
+          "publishedAt": "2026-10-24T19:10:05+00:00",
+          "text": "🏍 Київ: реактивний БПЛА на Видубичі",
+          "url": "https://t.me/kpszsu/90216"
+        },
+        {
+          "id": 90217,
+          "publishedAt": "2026-10-24T19:13:13+00:00",
+          "text": "🏍 Київ: реактивний БПЛА на Троєщині",
+          "url": "https://t.me/kpszsu/90217"
         }
       ]
     },
