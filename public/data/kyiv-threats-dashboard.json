@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T06:08:03.901Z",
+    "generatedAt": "2026-10-25T11:28:29.012Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8854,
-    "totalObservations": 1451,
+    "totalSourcePosts": 8871,
+    "totalObservations": 1457,
     "totalEpisodes": 658,
-    "latestSourceAt": "2026-10-25T05:49:46+00:00",
+    "latestSourceAt": "2026-10-25T09:26:08+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7259,7 +7259,7 @@
       "id": "jet-drone-90326",
       "category": "jet-drone",
       "startedAt": "2026-10-25T05:03:05+00:00",
-      "endedAt": "2026-10-25T05:35:14+00:00",
+      "endedAt": "2026-10-25T09:11:10+00:00",
       "sourcePosts": [
         {
           "id": 90326,
@@ -7272,6 +7272,42 @@
           "publishedAt": "2026-10-25T05:35:14+00:00",
           "text": "🏍 Реактивний БпЛА на Київ з півночі.",
           "url": "https://t.me/kpszsu/90333"
+        },
+        {
+          "id": 90350,
+          "publishedAt": "2026-10-25T06:29:44+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ із заходу.",
+          "url": "https://t.me/kpszsu/90350"
+        },
+        {
+          "id": 90358,
+          "publishedAt": "2026-10-25T07:08:39+00:00",
+          "text": "🏍 Реактивний БпЛА на Биківню в Києві",
+          "url": "https://t.me/kpszsu/90358"
+        },
+        {
+          "id": 90372,
+          "publishedAt": "2026-10-25T07:52:45+00:00",
+          "text": "🏍 Київщина: реактивний БпЛА повз Боярку курсом на Київ.",
+          "url": "https://t.me/kpszsu/90372"
+        },
+        {
+          "id": 90377,
+          "publishedAt": "2026-10-25T08:11:52+00:00",
+          "text": "🏍 Реактивний БпЛА повз Вишневе курсом на Київ.",
+          "url": "https://t.me/kpszsu/90377"
+        },
+        {
+          "id": 90380,
+          "publishedAt": "2026-10-25T08:17:42+00:00",
+          "text": "🏍 Реактивний БпЛА повз Козин на Київ",
+          "url": "https://t.me/kpszsu/90380"
+        },
+        {
+          "id": 90393,
+          "publishedAt": "2026-10-25T09:11:10+00:00",
+          "text": "🏍 Реактивний БпЛА повз Бориспіль на Київ.",
+          "url": "https://t.me/kpszsu/90393"
         }
       ]
     },
