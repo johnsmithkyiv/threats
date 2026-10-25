@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T01:12:23.400Z",
+    "generatedAt": "2026-10-25T06:08:03.901Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8837,
-    "totalObservations": 1448,
-    "totalEpisodes": 656,
-    "latestSourceAt": "2026-10-25T00:47:48+00:00",
+    "totalSourcePosts": 8854,
+    "totalObservations": 1451,
+    "totalEpisodes": 658,
+    "latestSourceAt": "2026-10-25T05:49:46+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4924,6 +4924,20 @@
         "cruise-missile": 0,
         "ballistic-missile": 0
       }
+    },
+    {
+      "id": "2026-10-25",
+      "label": "25 Oct 2026",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 2,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
     }
   ],
   "weekly": [
@@ -6682,10 +6696,10 @@
       "label": "Uke 43, 2026",
       "start": "2026-10-19",
       "end": "2026-10-25",
-      "total": 26,
+      "total": 28,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 20,
+        "jet-drone": 22,
         "banderol": 0,
         "cruise-missile": 1,
         "ballistic-missile": 4
@@ -7230,10 +7244,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 90,
+      "total": 92,
       "categories": {
         "attack-drone": 8,
-        "jet-drone": 72,
+        "jet-drone": 74,
         "banderol": 0,
         "cruise-missile": 1,
         "ballistic-missile": 9
@@ -7241,6 +7255,40 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-90326",
+      "category": "jet-drone",
+      "startedAt": "2026-10-25T05:03:05+00:00",
+      "endedAt": "2026-10-25T05:35:14+00:00",
+      "sourcePosts": [
+        {
+          "id": 90326,
+          "publishedAt": "2026-10-25T05:03:05+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/90326"
+        },
+        {
+          "id": 90333,
+          "publishedAt": "2026-10-25T05:35:14+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/90333"
+        }
+      ]
+    },
+    {
+      "id": "jet-drone-90289",
+      "category": "jet-drone",
+      "startedAt": "2026-10-25T01:39:09+00:00",
+      "endedAt": "2026-10-25T01:39:09+00:00",
+      "sourcePosts": [
+        {
+          "id": 90289,
+          "publishedAt": "2026-10-25T01:39:09+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/90289"
+        }
+      ]
+    },
     {
       "id": "jet-drone-90154",
       "category": "jet-drone",
@@ -7930,40 +7978,6 @@
           "publishedAt": "2026-10-18T07:10:26+00:00",
           "text": "🛵  Київ: БпЛА на Осокорки.",
           "url": "https://t.me/kpszsu/87901"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-87780",
-      "category": "jet-drone",
-      "startedAt": "2026-10-17T18:30:23+00:00",
-      "endedAt": "2026-10-17T18:30:23+00:00",
-      "sourcePosts": [
-        {
-          "id": 87780,
-          "publishedAt": "2026-10-17T18:30:23+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ",
-          "url": "https://t.me/kpszsu/87780"
-        }
-      ]
-    },
-    {
-      "id": "attack-drone-87777",
-      "category": "attack-drone",
-      "startedAt": "2026-10-17T18:21:00+00:00",
-      "endedAt": "2026-10-17T18:33:19+00:00",
-      "sourcePosts": [
-        {
-          "id": 87777,
-          "publishedAt": "2026-10-17T18:21:00+00:00",
-          "text": "🏍 Київ: БпЛА в напрямку міста з півдня",
-          "url": "https://t.me/kpszsu/87777"
-        },
-        {
-          "id": 87784,
-          "publishedAt": "2026-10-17T18:33:19+00:00",
-          "text": "🏍 Київ: БпЛА на Оболонь",
-          "url": "https://t.me/kpszsu/87784"
         }
       ]
     }
