@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-26T23:53:14.014Z",
+    "generatedAt": "2026-10-27T05:04:31.924Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8920,
-    "totalObservations": 1466,
-    "totalEpisodes": 663,
-    "latestSourceAt": "2026-10-26T23:31:40+00:00",
+    "totalSourcePosts": 8932,
+    "totalObservations": 1474,
+    "totalEpisodes": 664,
+    "latestSourceAt": "2026-10-27T01:46:07+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4952,6 +4952,20 @@
         "cruise-missile": 0,
         "ballistic-missile": 1
       }
+    },
+    {
+      "id": "2026-10-27",
+      "label": "27 Oct 2026",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "total": 1,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 0,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 1
+      }
     }
   ],
   "weekly": [
@@ -6724,13 +6738,13 @@
       "label": "Uke 44, 2026",
       "start": "2026-10-26",
       "end": "2026-11-01",
-      "total": 3,
+      "total": 4,
       "categories": {
         "attack-drone": 0,
         "jet-drone": 2,
         "banderol": 0,
         "cruise-missile": 0,
-        "ballistic-missile": 1
+        "ballistic-missile": 2
       }
     }
   ],
@@ -7272,17 +7286,73 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 97,
+      "total": 98,
       "categories": {
         "attack-drone": 9,
         "jet-drone": 77,
         "banderol": 0,
         "cruise-missile": 1,
-        "ballistic-missile": 10
+        "ballistic-missile": 11
       }
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "ballistic-missile-90800",
+      "category": "ballistic-missile",
+      "startedAt": "2026-10-27T01:27:21+00:00",
+      "endedAt": "2026-10-27T01:45:44+00:00",
+      "sourcePosts": [
+        {
+          "id": 90800,
+          "publishedAt": "2026-10-27T01:27:21+00:00",
+          "text": "🚀Балістична ракета курсом на Київ",
+          "url": "https://t.me/kpszsu/90800"
+        },
+        {
+          "id": 90801,
+          "publishedAt": "2026-10-27T01:28:26+00:00",
+          "text": "🚀Повторний пуск балістики на  Київ",
+          "url": "https://t.me/kpszsu/90801"
+        },
+        {
+          "id": 90802,
+          "publishedAt": "2026-10-27T01:29:53+00:00",
+          "text": "🚀Ще на Київ балістика",
+          "url": "https://t.me/kpszsu/90802"
+        },
+        {
+          "id": 90803,
+          "publishedAt": "2026-10-27T01:31:40+00:00",
+          "text": "🚀Ще на Київ балістика",
+          "url": "https://t.me/kpszsu/90803"
+        },
+        {
+          "id": 90804,
+          "publishedAt": "2026-10-27T01:33:20+00:00",
+          "text": "🚀Повторний пуск балістики на  Київ",
+          "url": "https://t.me/kpszsu/90804"
+        },
+        {
+          "id": 90805,
+          "publishedAt": "2026-10-27T01:34:43+00:00",
+          "text": "🚀Ще на Київ балістика",
+          "url": "https://t.me/kpszsu/90805"
+        },
+        {
+          "id": 90806,
+          "publishedAt": "2026-10-27T01:36:04+00:00",
+          "text": "🚀Ще на Київ балістика",
+          "url": "https://t.me/kpszsu/90806"
+        },
+        {
+          "id": 90808,
+          "publishedAt": "2026-10-27T01:45:44+00:00",
+          "text": "🚀Повторний пуск балістики на  Київ",
+          "url": "https://t.me/kpszsu/90808"
+        }
+      ]
+    },
     {
       "id": "jet-drone-90727",
       "category": "jet-drone",
@@ -8010,20 +8080,6 @@
           "publishedAt": "2026-10-19T23:54:22+00:00",
           "text": "🏍 Реактивний БпЛА на Київ з півночі через Вишгород.",
           "url": "https://t.me/kpszsu/88515"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-88419",
-      "category": "jet-drone",
-      "startedAt": "2026-10-19T15:32:13+00:00",
-      "endedAt": "2026-10-19T15:32:13+00:00",
-      "sourcePosts": [
-        {
-          "id": 88419,
-          "publishedAt": "2026-10-19T15:32:13+00:00",
-          "text": "🏍 Реактивний БпЛА в р-ні Канівського водосховища курсом на Київ",
-          "url": "https://t.me/kpszsu/88419"
         }
       ]
     }
