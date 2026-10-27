@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-27T10:33:57.468Z",
+    "generatedAt": "2026-10-27T16:38:50.407Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 8933,
-    "totalObservations": 1474,
-    "totalEpisodes": 664,
-    "latestSourceAt": "2026-10-27T07:08:41+00:00",
+    "totalSourcePosts": 8943,
+    "totalObservations": 1477,
+    "totalEpisodes": 665,
+    "latestSourceAt": "2026-10-27T15:27:09+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -4958,10 +4958,10 @@
       "label": "27 Oct 2026",
       "start": "2026-10-27",
       "end": "2026-10-27",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 0,
+        "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -6738,10 +6738,10 @@
       "label": "Uke 44, 2026",
       "start": "2026-10-26",
       "end": "2026-11-01",
-      "total": 4,
+      "total": 5,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 2,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 2
@@ -7286,10 +7286,10 @@
       "label": "October 2026",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "total": 98,
+      "total": 99,
       "categories": {
         "attack-drone": 9,
-        "jet-drone": 77,
+        "jet-drone": 78,
         "banderol": 0,
         "cruise-missile": 1,
         "ballistic-missile": 11
@@ -7297,6 +7297,32 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-90849",
+      "category": "jet-drone",
+      "startedAt": "2026-10-27T10:58:44+00:00",
+      "endedAt": "2026-10-27T11:46:52+00:00",
+      "sourcePosts": [
+        {
+          "id": 90849,
+          "publishedAt": "2026-10-27T10:58:44+00:00",
+          "text": "🏍 Реактивний БпЛА на Воскресенку в Києві",
+          "url": "https://t.me/kpszsu/90849"
+        },
+        {
+          "id": 90855,
+          "publishedAt": "2026-10-27T11:08:29+00:00",
+          "text": "🏍 Реактивний БпЛА на Новобіличі в Києві",
+          "url": "https://t.me/kpszsu/90855"
+        },
+        {
+          "id": 90866,
+          "publishedAt": "2026-10-27T11:46:52+00:00",
+          "text": "🏍 Реактивний БпЛА повз Бориспіль на Київ.",
+          "url": "https://t.me/kpszsu/90866"
+        }
+      ]
+    },
     {
       "id": "ballistic-missile-90800",
       "category": "ballistic-missile",
@@ -8066,20 +8092,6 @@
           "publishedAt": "2026-10-20T06:09:42+00:00",
           "text": "🏍 Реактивний БпЛА на Київ з півдня",
           "url": "https://t.me/kpszsu/88706"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-88515",
-      "category": "jet-drone",
-      "startedAt": "2026-10-19T23:54:22+00:00",
-      "endedAt": "2026-10-19T23:54:22+00:00",
-      "sourcePosts": [
-        {
-          "id": 88515,
-          "publishedAt": "2026-10-19T23:54:22+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з півночі через Вишгород.",
-          "url": "https://t.me/kpszsu/88515"
         }
       ]
     }
