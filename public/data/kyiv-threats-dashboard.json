@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-31T17:43:27.074Z",
+    "generatedAt": "2026-10-31T21:33:41.501Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9082,
-    "totalObservations": 1499,
+    "totalSourcePosts": 9098,
+    "totalObservations": 1504,
     "totalEpisodes": 675,
-    "latestSourceAt": "2026-10-31T17:27:48+00:00",
+    "latestSourceAt": "2026-10-31T21:05:08+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7343,7 +7343,7 @@
       "id": "attack-drone-91769",
       "category": "attack-drone",
       "startedAt": "2026-10-31T15:05:56+00:00",
-      "endedAt": "2026-10-31T16:09:32+00:00",
+      "endedAt": "2026-10-31T21:05:08+00:00",
       "sourcePosts": [
         {
           "id": 91769,
@@ -7356,6 +7356,36 @@
           "publishedAt": "2026-10-31T16:09:32+00:00",
           "text": "🛵 Ударний БпЛА на Київ з півночі",
           "url": "https://t.me/kpszsu/91803"
+        },
+        {
+          "id": 91867,
+          "publishedAt": "2026-10-31T18:07:20+00:00",
+          "text": "🛵 Ударні БпЛА на Київ з півдня",
+          "url": "https://t.me/kpszsu/91867"
+        },
+        {
+          "id": 91891,
+          "publishedAt": "2026-10-31T18:53:56+00:00",
+          "text": "🛵 Ударний БпЛА на Київ з південного сходу",
+          "url": "https://t.me/kpszsu/91891"
+        },
+        {
+          "id": 91920,
+          "publishedAt": "2026-10-31T19:34:11+00:00",
+          "text": "🛵 Ударний БпЛА на Київ",
+          "url": "https://t.me/kpszsu/91920"
+        },
+        {
+          "id": 91944,
+          "publishedAt": "2026-10-31T20:42:38+00:00",
+          "text": "🏍 Київ: ударний БпЛА на місто з півдня",
+          "url": "https://t.me/kpszsu/91944"
+        },
+        {
+          "id": 91949,
+          "publishedAt": "2026-10-31T21:05:08+00:00",
+          "text": "🛵 Київ: ударний БпЛА на Жуляни",
+          "url": "https://t.me/kpszsu/91949"
         }
       ]
     },
