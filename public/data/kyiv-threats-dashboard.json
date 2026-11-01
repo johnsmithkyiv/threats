@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-01T07:31:59.697Z",
+    "generatedAt": "2026-11-01T15:07:51.050Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9111,
-    "totalObservations": 1506,
-    "totalEpisodes": 677,
-    "latestSourceAt": "2026-11-01T07:29:50+00:00",
+    "totalSourcePosts": 9126,
+    "totalObservations": 1508,
+    "totalEpisodes": 679,
+    "latestSourceAt": "2026-11-01T15:03:39+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -5014,10 +5014,10 @@
       "label": "1 Nov 2026",
       "start": "2026-11-01",
       "end": "2026-11-01",
-      "total": 2,
+      "total": 4,
       "categories": {
-        "attack-drone": 0,
-        "jet-drone": 2,
+        "attack-drone": 1,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6794,10 +6794,10 @@
       "label": "Uke 44, 2026",
       "start": "2026-10-26",
       "end": "2026-11-01",
-      "total": 17,
+      "total": 19,
       "categories": {
-        "attack-drone": 2,
-        "jet-drone": 12,
+        "attack-drone": 3,
+        "jet-drone": 13,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 3
@@ -7356,10 +7356,10 @@
       "label": "November 2026",
       "start": "2026-11-01",
       "end": "2026-11-30",
-      "total": 2,
+      "total": 4,
       "categories": {
-        "attack-drone": 0,
-        "jet-drone": 2,
+        "attack-drone": 1,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -7367,6 +7367,34 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "attack-drone-92054",
+      "category": "attack-drone",
+      "startedAt": "2026-11-01T10:15:45+00:00",
+      "endedAt": "2026-11-01T10:15:45+00:00",
+      "sourcePosts": [
+        {
+          "id": 92054,
+          "publishedAt": "2026-11-01T10:15:45+00:00",
+          "text": "🛵 Ударний БпЛА повз Козин на Київ",
+          "url": "https://t.me/kpszsu/92054"
+        }
+      ]
+    },
+    {
+      "id": "jet-drone-92032",
+      "category": "jet-drone",
+      "startedAt": "2026-11-01T07:45:23+00:00",
+      "endedAt": "2026-11-01T07:45:23+00:00",
+      "sourcePosts": [
+        {
+          "id": 92032,
+          "publishedAt": "2026-11-01T07:45:23+00:00",
+          "text": "🏍 Реактивний БпЛА повз Бориспіль на Київ.",
+          "url": "https://t.me/kpszsu/92032"
+        }
+      ]
+    },
     {
       "id": "jet-drone-91983",
       "category": "jet-drone",
@@ -8074,52 +8102,6 @@
           "publishedAt": "2026-10-23T03:12:51+00:00",
           "text": "🏍 Київ - реактивні БпЛА над містом (Троєщина)",
           "url": "https://t.me/kpszsu/89603"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-89584",
-      "category": "jet-drone",
-      "startedAt": "2026-10-23T01:03:03+00:00",
-      "endedAt": "2026-10-23T01:03:03+00:00",
-      "sourcePosts": [
-        {
-          "id": 89584,
-          "publishedAt": "2026-10-23T01:03:03+00:00",
-          "text": "🏍 Київ - реактивні БпЛА над містом. Перебувайте в укриттях.",
-          "url": "https://t.me/kpszsu/89584"
-        }
-      ]
-    },
-    {
-      "id": "attack-drone-89567",
-      "category": "attack-drone",
-      "startedAt": "2026-10-22T23:22:59+00:00",
-      "endedAt": "2026-10-22T23:29:20+00:00",
-      "sourcePosts": [
-        {
-          "id": 89567,
-          "publishedAt": "2026-10-22T23:22:59+00:00",
-          "text": "🛵 Київ: БпЛА на місто зі сходу",
-          "url": "https://t.me/kpszsu/89567"
-        },
-        {
-          "id": 89568,
-          "publishedAt": "2026-10-22T23:25:20+00:00",
-          "text": "🛵 Київ: БпЛА на Дарницю",
-          "url": "https://t.me/kpszsu/89568"
-        },
-        {
-          "id": 89569,
-          "publishedAt": "2026-10-22T23:26:40+00:00",
-          "text": "🛵 Київ: БпЛА на Позняки",
-          "url": "https://t.me/kpszsu/89569"
-        },
-        {
-          "id": 89571,
-          "publishedAt": "2026-10-22T23:29:20+00:00",
-          "text": "🛵 Київ: БпЛА на Чабани",
-          "url": "https://t.me/kpszsu/89571"
         }
       ]
     }
