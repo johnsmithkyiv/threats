@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-02T15:51:23.985Z",
+    "generatedAt": "2026-11-02T23:29:41.243Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9203,
-    "totalObservations": 1527,
-    "totalEpisodes": 682,
-    "latestSourceAt": "2026-11-02T15:46:31+00:00",
+    "totalSourcePosts": 9234,
+    "totalObservations": 1539,
+    "totalEpisodes": 683,
+    "latestSourceAt": "2026-11-02T23:23:11+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -5028,9 +5028,9 @@
       "label": "2 Nov 2026",
       "start": "2026-11-02",
       "end": "2026-11-02",
-      "total": 3,
+      "total": 4,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
@@ -6822,9 +6822,9 @@
       "label": "Uke 45, 2026",
       "start": "2026-11-02",
       "end": "2026-11-08",
-      "total": 3,
+      "total": 4,
       "categories": {
-        "attack-drone": 0,
+        "attack-drone": 1,
         "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
@@ -7384,9 +7384,9 @@
       "label": "November 2026",
       "start": "2026-11-01",
       "end": "2026-11-30",
-      "total": 7,
+      "total": 8,
       "categories": {
-        "attack-drone": 1,
+        "attack-drone": 2,
         "jet-drone": 6,
         "banderol": 0,
         "cruise-missile": 0,
@@ -7396,10 +7396,60 @@
   ],
   "recentEpisodes": [
     {
+      "id": "attack-drone-92513",
+      "category": "attack-drone",
+      "startedAt": "2026-11-02T20:30:05+00:00",
+      "endedAt": "2026-11-02T21:38:07+00:00",
+      "sourcePosts": [
+        {
+          "id": 92513,
+          "publishedAt": "2026-11-02T20:30:05+00:00",
+          "text": "🛵 Київщина: БпЛА південніше Борисполя, курсом на Київ.",
+          "url": "https://t.me/kpszsu/92513"
+        },
+        {
+          "id": 92517,
+          "publishedAt": "2026-11-02T20:36:56+00:00",
+          "text": "🛵 Київ: БпЛА курсом на Осокорки.",
+          "url": "https://t.me/kpszsu/92517"
+        },
+        {
+          "id": 92534,
+          "publishedAt": "2026-11-02T21:30:46+00:00",
+          "text": "🛵 БпЛА курсом на Київ з півдня.",
+          "url": "https://t.me/kpszsu/92534"
+        },
+        {
+          "id": 92535,
+          "publishedAt": "2026-11-02T21:32:33+00:00",
+          "text": "🛵 Київ: БпЛА курсом на Віту-Литовську.",
+          "url": "https://t.me/kpszsu/92535"
+        },
+        {
+          "id": 92537,
+          "publishedAt": "2026-11-02T21:33:37+00:00",
+          "text": "🛵 Київ: БпЛА курсом на Теремки.",
+          "url": "https://t.me/kpszsu/92537"
+        },
+        {
+          "id": 92539,
+          "publishedAt": "2026-11-02T21:35:25+00:00",
+          "text": "🛵 Київ: БпЛА курсом на Жуляни.",
+          "url": "https://t.me/kpszsu/92539"
+        },
+        {
+          "id": 92541,
+          "publishedAt": "2026-11-02T21:38:07+00:00",
+          "text": "🛵 Київ: БпЛА курсом на Академмістечко.",
+          "url": "https://t.me/kpszsu/92541"
+        }
+      ]
+    },
+    {
       "id": "jet-drone-92371",
       "category": "jet-drone",
       "startedAt": "2026-11-02T12:01:12+00:00",
-      "endedAt": "2026-11-02T15:27:24+00:00",
+      "endedAt": "2026-11-02T17:49:25+00:00",
       "sourcePosts": [
         {
           "id": 92371,
@@ -7490,6 +7540,36 @@
           "publishedAt": "2026-11-02T15:27:24+00:00",
           "text": "🏍 Київщина: реактивний БпЛА повз Бориспіль курсом на Київ з півдня",
           "url": "https://t.me/kpszsu/92445"
+        },
+        {
+          "id": 92451,
+          "publishedAt": "2026-11-02T16:00:14+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на місто з півдня",
+          "url": "https://t.me/kpszsu/92451"
+        },
+        {
+          "id": 92452,
+          "publishedAt": "2026-11-02T16:01:52+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Позняки",
+          "url": "https://t.me/kpszsu/92452"
+        },
+        {
+          "id": 92467,
+          "publishedAt": "2026-11-02T17:00:52+00:00",
+          "text": "🏍 Київ: реактивний БпЛА Позняки",
+          "url": "https://t.me/kpszsu/92467"
+        },
+        {
+          "id": 92473,
+          "publishedAt": "2026-11-02T17:48:15+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Жуляни",
+          "url": "https://t.me/kpszsu/92473"
+        },
+        {
+          "id": 92474,
+          "publishedAt": "2026-11-02T17:49:25+00:00",
+          "text": "🏍 Київ: реактивний БпЛА на Борщагівку",
+          "url": "https://t.me/kpszsu/92474"
         }
       ]
     },
@@ -8200,20 +8280,6 @@
           "publishedAt": "2026-10-24T00:57:34+00:00",
           "text": "🏍  Київ - реактивні БпЛА над містом.  Перебувайте в укриттях.",
           "url": "https://t.me/kpszsu/89961"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-89776",
-      "category": "jet-drone",
-      "startedAt": "2026-10-23T11:25:13+00:00",
-      "endedAt": "2026-10-23T11:25:13+00:00",
-      "sourcePosts": [
-        {
-          "id": 89776,
-          "publishedAt": "2026-10-23T11:25:13+00:00",
-          "text": "🏍 Реактивний БпЛА  на Київ",
-          "url": "https://t.me/kpszsu/89776"
         }
       ]
     }
