@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-05T12:19:54.110Z",
+    "generatedAt": "2026-11-05T20:39:49.362Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9354,
-    "totalObservations": 1554,
-    "totalEpisodes": 693,
-    "latestSourceAt": "2026-11-05T11:53:51+00:00",
+    "totalSourcePosts": 9384,
+    "totalObservations": 1557,
+    "totalEpisodes": 694,
+    "latestSourceAt": "2026-11-05T20:27:50+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -5070,10 +5070,10 @@
       "label": "5 Nov 2026",
       "start": "2026-11-05",
       "end": "2026-11-05",
-      "total": 2,
+      "total": 3,
       "categories": {
         "attack-drone": 0,
-        "jet-drone": 2,
+        "jet-drone": 3,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -6864,10 +6864,10 @@
       "label": "Uke 45, 2026",
       "start": "2026-11-02",
       "end": "2026-11-08",
-      "total": 14,
+      "total": 15,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 11,
+        "jet-drone": 12,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 2
@@ -7426,10 +7426,10 @@
       "label": "November 2026",
       "start": "2026-11-01",
       "end": "2026-11-30",
-      "total": 18,
+      "total": 19,
       "categories": {
         "attack-drone": 2,
-        "jet-drone": 14,
+        "jet-drone": 15,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 2
@@ -7437,6 +7437,32 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-93385",
+      "category": "jet-drone",
+      "startedAt": "2026-11-05T18:10:35+00:00",
+      "endedAt": "2026-11-05T18:13:53+00:00",
+      "sourcePosts": [
+        {
+          "id": 93385,
+          "publishedAt": "2026-11-05T18:10:35+00:00",
+          "text": "🏍 Київ: Реактивний БпЛА курсом на Конча-Заспу.",
+          "url": "https://t.me/kpszsu/93385"
+        },
+        {
+          "id": 93386,
+          "publishedAt": "2026-11-05T18:12:47+00:00",
+          "text": "🏍 Київ: Реактивний БпЛА курсом на Осокорки.",
+          "url": "https://t.me/kpszsu/93386"
+        },
+        {
+          "id": 93387,
+          "publishedAt": "2026-11-05T18:13:53+00:00",
+          "text": "🏍 Київ: Реактивний БпЛА курсом на Дарницю.",
+          "url": "https://t.me/kpszsu/93387"
+        }
+      ]
+    },
     {
       "id": "jet-drone-93221",
       "category": "jet-drone",
@@ -8146,62 +8172,6 @@
           "publishedAt": "2026-10-27T11:46:52+00:00",
           "text": "🏍 Реактивний БпЛА повз Бориспіль на Київ.",
           "url": "https://t.me/kpszsu/90866"
-        }
-      ]
-    },
-    {
-      "id": "ballistic-missile-90800",
-      "category": "ballistic-missile",
-      "startedAt": "2026-10-27T01:27:21+00:00",
-      "endedAt": "2026-10-27T01:45:44+00:00",
-      "sourcePosts": [
-        {
-          "id": 90800,
-          "publishedAt": "2026-10-27T01:27:21+00:00",
-          "text": "🚀Балістична ракета курсом на Київ",
-          "url": "https://t.me/kpszsu/90800"
-        },
-        {
-          "id": 90801,
-          "publishedAt": "2026-10-27T01:28:26+00:00",
-          "text": "🚀Повторний пуск балістики на  Київ",
-          "url": "https://t.me/kpszsu/90801"
-        },
-        {
-          "id": 90802,
-          "publishedAt": "2026-10-27T01:29:53+00:00",
-          "text": "🚀Ще на Київ балістика",
-          "url": "https://t.me/kpszsu/90802"
-        },
-        {
-          "id": 90803,
-          "publishedAt": "2026-10-27T01:31:40+00:00",
-          "text": "🚀Ще на Київ балістика",
-          "url": "https://t.me/kpszsu/90803"
-        },
-        {
-          "id": 90804,
-          "publishedAt": "2026-10-27T01:33:20+00:00",
-          "text": "🚀Повторний пуск балістики на  Київ",
-          "url": "https://t.me/kpszsu/90804"
-        },
-        {
-          "id": 90805,
-          "publishedAt": "2026-10-27T01:34:43+00:00",
-          "text": "🚀Ще на Київ балістика",
-          "url": "https://t.me/kpszsu/90805"
-        },
-        {
-          "id": 90806,
-          "publishedAt": "2026-10-27T01:36:04+00:00",
-          "text": "🚀Ще на Київ балістика",
-          "url": "https://t.me/kpszsu/90806"
-        },
-        {
-          "id": 90808,
-          "publishedAt": "2026-10-27T01:45:44+00:00",
-          "text": "🚀Повторний пуск балістики на  Київ",
-          "url": "https://t.me/kpszsu/90808"
         }
       ]
     }
