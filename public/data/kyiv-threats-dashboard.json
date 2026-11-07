@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-07T10:07:55.819Z",
+    "generatedAt": "2026-11-07T16:26:13.784Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9476,
-    "totalObservations": 1575,
+    "totalSourcePosts": 9485,
+    "totalObservations": 1580,
     "totalEpisodes": 702,
-    "latestSourceAt": "2026-11-07T09:54:58+00:00",
+    "latestSourceAt": "2026-11-07T15:46:03+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7483,7 +7483,7 @@
       "id": "jet-drone-93920",
       "category": "jet-drone",
       "startedAt": "2026-11-07T05:27:23+00:00",
-      "endedAt": "2026-11-07T09:16:32+00:00",
+      "endedAt": "2026-11-07T13:22:58+00:00",
       "sourcePosts": [
         {
           "id": 93920,
@@ -7514,6 +7514,36 @@
           "publishedAt": "2026-11-07T09:16:32+00:00",
           "text": "🏍 Реактивний БпЛА на Київ з північного сходу",
           "url": "https://t.me/kpszsu/93960"
+        },
+        {
+          "id": 93974,
+          "publishedAt": "2026-11-07T11:10:50+00:00",
+          "text": "🏍 Реактивний БпЛА курсом на Київ з півночі",
+          "url": "https://t.me/kpszsu/93974"
+        },
+        {
+          "id": 93980,
+          "publishedAt": "2026-11-07T12:03:12+00:00",
+          "text": "🏍 Реактивний БпЛА курсом на Київ з півночі",
+          "url": "https://t.me/kpszsu/93980"
+        },
+        {
+          "id": 93984,
+          "publishedAt": "2026-11-07T12:25:36+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/93984"
+        },
+        {
+          "id": 93993,
+          "publishedAt": "2026-11-07T13:10:08+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/93993"
+        },
+        {
+          "id": 93997,
+          "publishedAt": "2026-11-07T13:22:58+00:00",
+          "text": "🏍 Реактивні БпЛА на півночі Київщини, курс на Київ.",
+          "url": "https://t.me/kpszsu/93997"
         }
       ]
     },
