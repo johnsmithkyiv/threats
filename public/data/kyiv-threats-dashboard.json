@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-13T07:57:34.227Z",
+    "generatedAt": "2026-11-13T16:23:20.306Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9731,
-    "totalObservations": 1608,
-    "totalEpisodes": 715,
-    "latestSourceAt": "2026-11-13T06:54:08+00:00",
+    "totalSourcePosts": 9739,
+    "totalObservations": 1609,
+    "totalEpisodes": 716,
+    "latestSourceAt": "2026-11-13T11:12:54+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -5182,11 +5182,11 @@
       "label": "13 Nov 2026",
       "start": "2026-11-13",
       "end": "2026-11-13",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 0,
         "jet-drone": 1,
-        "banderol": 0,
+        "banderol": 1,
         "cruise-missile": 0,
         "ballistic-missile": 0
       }
@@ -6990,11 +6990,11 @@
       "label": "Uke 46, 2026",
       "start": "2026-11-09",
       "end": "2026-11-15",
-      "total": 11,
+      "total": 12,
       "categories": {
         "attack-drone": 1,
         "jet-drone": 9,
-        "banderol": 0,
+        "banderol": 1,
         "cruise-missile": 0,
         "ballistic-missile": 1
       }
@@ -7552,17 +7552,31 @@
       "label": "November 2026",
       "start": "2026-11-01",
       "end": "2026-11-30",
-      "total": 40,
+      "total": 41,
       "categories": {
         "attack-drone": 4,
         "jet-drone": 30,
-        "banderol": 0,
+        "banderol": 1,
         "cruise-missile": 0,
         "ballistic-missile": 6
       }
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "banderol-95753",
+      "category": "banderol",
+      "startedAt": "2026-11-13T09:15:28+00:00",
+      "endedAt": "2026-11-13T09:15:28+00:00",
+      "sourcePosts": [
+        {
+          "id": 95753,
+          "publishedAt": "2026-11-13T09:15:28+00:00",
+          "text": "🚀Баражуючі боєприпаси \"Бандероль\" в р-ні Київського водосховища курсом на Київ з півночі.",
+          "url": "https://t.me/kpszsu/95753"
+        }
+      ]
+    },
     {
       "id": "jet-drone-95667",
       "category": "jet-drone",
@@ -8182,20 +8196,6 @@
           "publishedAt": "2026-11-03T04:11:18+00:00",
           "text": "🏍 Реактивний БпЛА курсом на Київ з південно-східного напрямку.",
           "url": "https://t.me/kpszsu/92691"
-        }
-      ]
-    },
-    {
-      "id": "ballistic-missile-92687",
-      "category": "ballistic-missile",
-      "startedAt": "2026-11-03T04:06:05+00:00",
-      "endedAt": "2026-11-03T04:06:05+00:00",
-      "sourcePosts": [
-        {
-          "id": 92687,
-          "publishedAt": "2026-11-03T04:06:05+00:00",
-          "text": "Балістика на Київ",
-          "url": "https://t.me/kpszsu/92687"
         }
       ]
     }
