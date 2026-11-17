@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-17T13:26:00.183Z",
+    "generatedAt": "2026-11-17T22:23:48.683Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9876,
-    "totalObservations": 1632,
-    "totalEpisodes": 727,
-    "latestSourceAt": "2026-11-17T13:11:41+00:00",
+    "totalSourcePosts": 9886,
+    "totalObservations": 1634,
+    "totalEpisodes": 728,
+    "latestSourceAt": "2026-11-17T20:22:56+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -5238,10 +5238,10 @@
       "label": "17 Nov 2026",
       "start": "2026-11-17",
       "end": "2026-11-17",
-      "total": 1,
+      "total": 2,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 0,
+        "jet-drone": 1,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 0
@@ -7060,10 +7060,10 @@
       "label": "Uke 47, 2026",
       "start": "2026-11-16",
       "end": "2026-11-22",
-      "total": 7,
+      "total": 8,
       "categories": {
         "attack-drone": 1,
-        "jet-drone": 5,
+        "jet-drone": 6,
         "banderol": 0,
         "cruise-missile": 0,
         "ballistic-missile": 1
@@ -7622,10 +7622,10 @@
       "label": "November 2026",
       "start": "2026-11-01",
       "end": "2026-11-30",
-      "total": 52,
+      "total": 53,
       "categories": {
         "attack-drone": 5,
-        "jet-drone": 38,
+        "jet-drone": 39,
         "banderol": 2,
         "cruise-missile": 0,
         "ballistic-missile": 7
@@ -7633,6 +7633,26 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-96981",
+      "category": "jet-drone",
+      "startedAt": "2026-11-17T17:36:02+00:00",
+      "endedAt": "2026-11-17T17:47:57+00:00",
+      "sourcePosts": [
+        {
+          "id": 96981,
+          "publishedAt": "2026-11-17T17:36:02+00:00",
+          "text": "🏍 Реактивний БпЛА через Бровари у напрямку Києва.",
+          "url": "https://t.me/kpszsu/96981"
+        },
+        {
+          "id": 96986,
+          "publishedAt": "2026-11-17T17:47:57+00:00",
+          "text": "🏍 Реактивний БпЛА через Велику Димерку у напрямку Києва.",
+          "url": "https://t.me/kpszsu/96986"
+        }
+      ]
+    },
     {
       "id": "attack-drone-96829",
       "category": "attack-drone",
@@ -8258,38 +8278,6 @@
           "publishedAt": "2026-11-06T23:08:34+00:00",
           "text": "🚀Ще балістичні ракети на Київ!",
           "url": "https://t.me/kpszsu/93776"
-        }
-      ]
-    },
-    {
-      "id": "ballistic-missile-93750",
-      "category": "ballistic-missile",
-      "startedAt": "2026-11-06T20:50:32+00:00",
-      "endedAt": "2026-11-06T20:52:37+00:00",
-      "sourcePosts": [
-        {
-          "id": 93750,
-          "publishedAt": "2026-11-06T20:50:32+00:00",
-          "text": "🚀Балістична ракета курсом на Київ!",
-          "url": "https://t.me/kpszsu/93750"
-        },
-        {
-          "id": 93751,
-          "publishedAt": "2026-11-06T20:51:03+00:00",
-          "text": "🚀Декілька балістичних ракет на Київ!",
-          "url": "https://t.me/kpszsu/93751"
-        },
-        {
-          "id": 93752,
-          "publishedAt": "2026-11-06T20:51:40+00:00",
-          "text": "🚀Ще 2 балістичні ракети на Київ!",
-          "url": "https://t.me/kpszsu/93752"
-        },
-        {
-          "id": 93753,
-          "publishedAt": "2026-11-06T20:52:37+00:00",
-          "text": "🚀Щонайменше 6 балістичних ракет курсом на Київ!",
-          "url": "https://t.me/kpszsu/93753"
         }
       ]
     }
