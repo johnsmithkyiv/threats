@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-18T13:57:54.010Z",
+    "generatedAt": "2026-11-18T21:56:35.038Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 9908,
-    "totalObservations": 1636,
+    "totalSourcePosts": 9914,
+    "totalObservations": 1638,
     "totalEpisodes": 730,
-    "latestSourceAt": "2026-11-18T13:44:22+00:00",
+    "latestSourceAt": "2026-11-18T16:24:32+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -7651,13 +7651,25 @@
       "id": "jet-drone-97185",
       "category": "jet-drone",
       "startedAt": "2026-11-18T13:44:22+00:00",
-      "endedAt": "2026-11-18T13:44:22+00:00",
+      "endedAt": "2026-11-18T15:58:25+00:00",
       "sourcePosts": [
         {
           "id": 97185,
           "publishedAt": "2026-11-18T13:44:22+00:00",
           "text": "🏍 Реактивний БпЛА на Димер на Київщині, курс на Київ.",
           "url": "https://t.me/kpszsu/97185"
+        },
+        {
+          "id": 97205,
+          "publishedAt": "2026-11-18T15:09:25+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ зі сходу.",
+          "url": "https://t.me/kpszsu/97205"
+        },
+        {
+          "id": 97219,
+          "publishedAt": "2026-11-18T15:58:25+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
+          "url": "https://t.me/kpszsu/97219"
         }
       ]
     },
