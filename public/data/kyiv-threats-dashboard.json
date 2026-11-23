@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-23T00:52:56.663Z",
+    "generatedAt": "2026-11-23T09:04:11.750Z",
     "coverageStart": "2022-02-24T00:00:00.000+02:00",
     "sourceName": "Ukrainian Air Force official Telegram channel",
     "sourceUrl": "https://t.me/kpszsu",
-    "totalSourcePosts": 10152,
-    "totalObservations": 1675,
-    "totalEpisodes": 742,
-    "latestSourceAt": "2026-11-23T00:30:08+00:00",
+    "totalSourcePosts": 10166,
+    "totalObservations": 1677,
+    "totalEpisodes": 744,
+    "latestSourceAt": "2026-11-23T08:28:36+00:00",
     "collectionComplete": true
   },
   "daily": [
@@ -5316,6 +5316,20 @@
         "cruise-missile": 0,
         "ballistic-missile": 0
       }
+    },
+    {
+      "id": "2026-11-23",
+      "label": "23 Nov 2026",
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 2,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
     }
   ],
   "weekly": [
@@ -7138,6 +7152,20 @@
         "cruise-missile": 0,
         "ballistic-missile": 3
       }
+    },
+    {
+      "id": "2026-W48",
+      "label": "Uke 48, 2026",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "total": 2,
+      "categories": {
+        "attack-drone": 0,
+        "jet-drone": 2,
+        "banderol": 0,
+        "cruise-missile": 0,
+        "ballistic-missile": 0
+      }
     }
   ],
   "monthly": [
@@ -7692,10 +7720,10 @@
       "label": "November 2026",
       "start": "2026-11-01",
       "end": "2026-11-30",
-      "total": 67,
+      "total": 69,
       "categories": {
         "attack-drone": 6,
-        "jet-drone": 50,
+        "jet-drone": 52,
         "banderol": 2,
         "cruise-missile": 0,
         "ballistic-missile": 9
@@ -7703,6 +7731,34 @@
     }
   ],
   "recentEpisodes": [
+    {
+      "id": "jet-drone-98615",
+      "category": "jet-drone",
+      "startedAt": "2026-11-23T05:13:35+00:00",
+      "endedAt": "2026-11-23T05:13:35+00:00",
+      "sourcePosts": [
+        {
+          "id": 98615,
+          "publishedAt": "2026-11-23T05:13:35+00:00",
+          "text": "🏍 Київ - реактивний БпЛА над містом.",
+          "url": "https://t.me/kpszsu/98615"
+        }
+      ]
+    },
+    {
+      "id": "jet-drone-98594",
+      "category": "jet-drone",
+      "startedAt": "2026-11-23T01:59:08+00:00",
+      "endedAt": "2026-11-23T01:59:08+00:00",
+      "sourcePosts": [
+        {
+          "id": 98594,
+          "publishedAt": "2026-11-23T01:59:08+00:00",
+          "text": "🏍 Реактивний БпЛА на Київ/Бровари з півночі.",
+          "url": "https://t.me/kpszsu/98594"
+        }
+      ]
+    },
     {
       "id": "jet-drone-98492",
       "category": "jet-drone",
@@ -8332,46 +8388,6 @@
           "publishedAt": "2026-11-13T00:59:04+00:00",
           "text": "🏍 Київщина: Реактивний БпЛА повз Димер, курсом на Київ.",
           "url": "https://t.me/kpszsu/95667"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-95530",
-      "category": "jet-drone",
-      "startedAt": "2026-11-12T16:25:53+00:00",
-      "endedAt": "2026-11-12T16:49:00+00:00",
-      "sourcePosts": [
-        {
-          "id": 95530,
-          "publishedAt": "2026-11-12T16:25:53+00:00",
-          "text": "🏍 Реактивний БпЛА на Київ з півночі.",
-          "url": "https://t.me/kpszsu/95530"
-        },
-        {
-          "id": 95554,
-          "publishedAt": "2026-11-12T16:49:00+00:00",
-          "text": "🏍 Київ: Реактивний БпЛА курсом на Сирець/Виноградар.",
-          "url": "https://t.me/kpszsu/95554"
-        }
-      ]
-    },
-    {
-      "id": "jet-drone-95451",
-      "category": "jet-drone",
-      "startedAt": "2026-11-12T10:37:10+00:00",
-      "endedAt": "2026-11-12T10:38:49+00:00",
-      "sourcePosts": [
-        {
-          "id": 95451,
-          "publishedAt": "2026-11-12T10:37:10+00:00",
-          "text": "🏍 Реактивний БпЛА курсом на Київ з заходу (Академмістечко).",
-          "url": "https://t.me/kpszsu/95451"
-        },
-        {
-          "id": 95452,
-          "publishedAt": "2026-11-12T10:38:49+00:00",
-          "text": "🏍 Київ: Реактивний БпЛА курсом на Сирець/Лук'янівку/Поділ.",
-          "url": "https://t.me/kpszsu/95452"
         }
       ]
     }
